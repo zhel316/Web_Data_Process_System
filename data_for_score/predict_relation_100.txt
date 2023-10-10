@@ -1,0 +1,714 @@
+RELATION:	clueweb12-0000tw-00-00007	<https://en.wikipedia.org/wiki/Collette,_New_Brunswick>	<https://en.wikipedia.org/wiki/Noel_(company)>	Content-Container	https://www.wikidata.org/wiki/Property:P527
+RELATION:	clueweb12-0000tw-00-00013	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	Content-Container	https://www.wikidata.org/wiki/Property:P527
+RELATION:	clueweb12-0000tw-00-00013	<https://en.wikipedia.org/wiki/Cancel>	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	Content-Container	https://www.wikidata.org/wiki/Property:P527
+RELATION:	clueweb12-0000tw-00-00013	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	Content-Container	https://www.wikidata.org/wiki/Property:P527
+RELATION:	clueweb12-0000tw-00-00013	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	Content-Container	https://www.wikidata.org/wiki/Property:P527
+RELATION:	clueweb12-0000tw-00-00013	<https://en.wikipedia.org/wiki/Cancel>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	Content-Container	https://www.wikidata.org/wiki/Property:P527
+RELATION:	clueweb12-0000tw-00-00013	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	Content-Container	https://www.wikidata.org/wiki/Property:P527
+RELATION:	clueweb12-0000tw-00-00037	<https://en.wikipedia.org/wiki/Cancel>	<https://en.wikipedia.org/wiki/Paris>	other
+RELATION:	clueweb12-0000tw-00-00036	<https://en.wikipedia.org/wiki/Cancel>	<https://en.wikipedia.org/wiki/Seattle>	other
+RELATION:	clueweb12-0000tw-00-00038	<https://en.wikipedia.org/wiki/Cancel>	<https://en.wikipedia.org/wiki/Paris>	other
+RELATION:	clueweb12-0000tw-00-00041	<https://en.wikipedia.org/wiki/Russian_(comics)>	<https://en.wikipedia.org/wiki/Search_(South_Korean_TV_series)>	other
+RELATION:	clueweb12-0000tw-00-00041	<https://en.wikipedia.org/wiki/Wales>	<https://en.wikipedia.org/wiki/Holyhead>	other
+RELATION:	clueweb12-0000tw-00-00039	<https://en.wikipedia.org/wiki/Reuters>	<https://en.wikipedia.org/wiki/Irish_(Junior_Cert)>	other
+RELATION:	clueweb12-0000tw-00-00039	<https://en.wikipedia.org/wiki/French_people>	<https://en.wikipedia.org/wiki/SA>	other
+RELATION:	clueweb12-0000tw-00-00039	<https://en.wikipedia.org/wiki/French_people>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00039	<https://en.wikipedia.org/wiki/Cancel>	<https://en.wikipedia.org/wiki/SA>	other
+RELATION:	clueweb12-0000tw-00-00014	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00014	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00014	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00014	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00014	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00014	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00020	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00020	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00020	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00020	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00020	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00020	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00018	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00018	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00018	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00018	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00018	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00018	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00021	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00021	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00021	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00021	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00021	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00021	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00024	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00024	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00024	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00024	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00024	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00024	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00016	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00016	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00016	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00016	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00016	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00016	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00025	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00025	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00025	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00025	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00025	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00025	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00017	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00017	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00017	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00017	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00017	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00017	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00015	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00015	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00015	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00015	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00015	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00015	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00023	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00023	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00023	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00023	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00023	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00023	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00029	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00029	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00029	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00029	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00029	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00029	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00031	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00031	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00031	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00031	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00031	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00031	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00022	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00022	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00022	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00022	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00022	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00022	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00028	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00028	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00028	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00028	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00028	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00028	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00027	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00027	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00027	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00027	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00027	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00027	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00030	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00030	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00030	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00030	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00030	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00030	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00026	<https://en.wikipedia.org/wiki/ACC_(programming_language)>	<https://en.wikipedia.org/wiki/MOH>	other
+RELATION:	clueweb12-0000tw-00-00026	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00026	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00026	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00026	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00026	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00026	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00019	<https://en.wikipedia.org/wiki/State_(website)>	<https://en.wikipedia.org/wiki/Medicaid>	other
+RELATION:	clueweb12-0000tw-00-00019	<https://en.wikipedia.org/wiki/CDC_(disambiguation)>	<https://en.wikipedia.org/wiki/Us>	other
+RELATION:	clueweb12-0000tw-00-00019	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00019	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00019	<https://en.wikipedia.org/wiki/Cancer_(astrology)>	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	other
+RELATION:	clueweb12-0000tw-00-00019	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00019	<https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)>	<https://en.wikipedia.org/wiki/United,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00019	<https://en.wikipedia.org/wiki/United,_West_Virginia>	<https://en.wikipedia.org/wiki/Cancel>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/Greece>	<https://en.wikipedia.org/wiki/AP_(song)>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/Greece>	<https://en.wikipedia.org/wiki/Athens>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/Greece>	<https://en.wikipedia.org/wiki/USA_(King_Crimson_album)>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/Greece>	<https://en.wikipedia.org/wiki/ATHENS>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/ATHENS>	<https://en.wikipedia.org/wiki/AP_(song)>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/ATHENS>	<https://en.wikipedia.org/wiki/Athens>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/ATHENS>	<https://en.wikipedia.org/wiki/USA_(King_Crimson_album)>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/USA_(King_Crimson_album)>	<https://en.wikipedia.org/wiki/AP_(song)>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/USA_(King_Crimson_album)>	<https://en.wikipedia.org/wiki/Athens>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/Athens>	<https://en.wikipedia.org/wiki/AP_(song)>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/Greek_(TV_series)>	<https://en.wikipedia.org/wiki/Greece>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/Greek_(TV_series)>	<https://en.wikipedia.org/wiki/European>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/European>	<https://en.wikipedia.org/wiki/Greece>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/US_(play)>	<https://en.wikipedia.org/wiki/AP_(song)>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/US_(play)>	<https://en.wikipedia.org/wiki/Greek_(TV_series)>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/Greek_(TV_series)>	<https://en.wikipedia.org/wiki/AP_(song)>	other
+RELATION:	clueweb12-0000tw-00-00033	<https://en.wikipedia.org/wiki/Greek_(TV_series)>	<https://en.wikipedia.org/wiki/Slump>	other
+RELATION:	clueweb12-0000tw-00-00064	<https://en.wikipedia.org/wiki/Evan,_Minnesota>	<https://en.wikipedia.org/wiki/Emma,_Louisiana>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00072	<https://en.wikipedia.org/wiki/Nintendo>	<https://en.wikipedia.org/wiki/PSN_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00075	<https://en.wikipedia.org/wiki/Nintendo>	<https://en.wikipedia.org/wiki/PSN_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00067	<https://en.wikipedia.org/wiki/Adam,_West_Virginia>	<https://en.wikipedia.org/wiki/Charlie_Nash_(Street_Fighter)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00081	<https://en.wikipedia.org/wiki/Jane_(Barenaked_Ladies_song)>	<https://en.wikipedia.org/wiki/Janes>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00080	<https://en.wikipedia.org/wiki/Ishmael_in_Islam>	<https://en.wikipedia.org/wiki/Wasim>	other
+RELATION:	clueweb12-0000tw-00-00066	<https://en.wikipedia.org/wiki/India,_Texas>	<https://en.wikipedia.org/wiki/Midwest,_Wyoming>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00066	<https://en.wikipedia.org/wiki/Jerry_Mouse>	<https://en.wikipedia.org/wiki/Rebecca,_Georgia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00077	<https://en.wikipedia.org/wiki/ME3>	<https://en.wikipedia.org/wiki/Shepard_(comics)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00077	<https://en.wikipedia.org/wiki/Nintendo>	<https://en.wikipedia.org/wiki/PSN_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00065	<https://en.wikipedia.org/wiki/John_(Archdeacon_of_Barnstaple)>	<https://en.wikipedia.org/wiki/Liz_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00065	<https://en.wikipedia.org/wiki/India,_Texas>	<https://en.wikipedia.org/wiki/Midwest,_Wyoming>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00065	<https://en.wikipedia.org/wiki/Jerry_Mouse>	<https://en.wikipedia.org/wiki/Rebecca,_Georgia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00056	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00056	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00056	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00056	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00056	<https://en.wikipedia.org/wiki/Gothamist>	<https://en.wikipedia.org/wiki/RSS>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00060	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00060	<https://en.wikipedia.org/wiki/Kelly,_Alabama>	<https://en.wikipedia.org/wiki/Scotto_(troubadour)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00060	<https://en.wikipedia.org/wiki/Kelly,_Alabama>	<https://en.wikipedia.org/wiki/Rosanna_railway_station>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00060	<https://en.wikipedia.org/wiki/Kelly,_Alabama>	<https://en.wikipedia.org/wiki/Scotto_(troubadour)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00060	<https://en.wikipedia.org/wiki/Kelly,_Alabama>	<https://en.wikipedia.org/wiki/Scotto_(troubadour)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00060	<https://en.wikipedia.org/wiki/RSS>	<https://en.wikipedia.org/wiki/Gothamist>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00071	<https://en.wikipedia.org/wiki/Nook,_Pennsylvania>	<https://en.wikipedia.org/wiki/Noble_(English_coin)>	other
+RELATION:	clueweb12-0000tw-00-00071	<https://en.wikipedia.org/wiki/IPad_(4th_generation)>	<https://en.wikipedia.org/wiki/Kinde,_Michigan>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00071	<https://en.wikipedia.org/wiki/Thunderdome_(music_festival)>	<https://en.wikipedia.org/wiki/Blaster_(Scott_Weiland_album)>	other
+RELATION:	clueweb12-0000tw-00-00071	<https://en.wikipedia.org/wiki/360s>	<https://en.wikipedia.org/wiki/Microsoft>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00071	<https://en.wikipedia.org/wiki/Xbox_(console)>	<https://en.wikipedia.org/wiki/Microsoft>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00071	<https://en.wikipedia.org/wiki/360s>	<https://en.wikipedia.org/wiki/Xbox_(console)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00071	<https://en.wikipedia.org/wiki/Nintendo>	<https://en.wikipedia.org/wiki/PSN_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00063	<https://en.wikipedia.org/wiki/Levi,_Estonia>	<https://en.wikipedia.org/wiki/Jerusalem_(Moore_novel)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00063	<https://en.wikipedia.org/wiki/Roman_(film)>	<https://en.wikipedia.org/wiki/Jerusalem_(Moore_novel)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00063	<https://en.wikipedia.org/wiki/Levi,_Estonia>	<https://en.wikipedia.org/wiki/Roman_(film)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00063	<https://en.wikipedia.org/wiki/Levi,_Finland>	<https://en.wikipedia.org/wiki/Rome,_Alabama>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00063	<https://en.wikipedia.org/wiki/Levi,_Finland>	<https://en.wikipedia.org/wiki/Roman_(film)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00063	<https://en.wikipedia.org/wiki/Levi,_Finland>	<https://en.wikipedia.org/wiki/Roman_(film)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00063	<https://en.wikipedia.org/wiki/Journey_(1995_film)>	<https://en.wikipedia.org/wiki/Diana_Walter>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00063	<https://en.wikipedia.org/wiki/Richard_(first_abbot_of_Fountains)>	<https://en.wikipedia.org/wiki/Diana_Walter>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00063	<https://en.wikipedia.org/wiki/Journey_(1995_film)>	<https://en.wikipedia.org/wiki/Richard_(first_abbot_of_Fountains)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/Catherine_(Thackeray_novel)>	<https://en.wikipedia.org/wiki/PSN_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/Vincent,_Iowa>	<https://en.wikipedia.org/wiki/Catherine_(Thackeray_novel)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/Katherine,_Arizona>	<https://en.wikipedia.org/wiki/Catherine_(Thackeray_novel)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/Vincent,_Iowa>	<https://en.wikipedia.org/wiki/Katherine,_Arizona>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/Jak_(Jak_and_Daxter)>	<https://en.wikipedia.org/wiki/Daxter>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/GTA>	<https://en.wikipedia.org/wiki/Daxter>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/Jak_(Jak_and_Daxter)>	<https://en.wikipedia.org/wiki/GTA>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/Maggie,_West_Virginia>	<https://en.wikipedia.org/wiki/Burns,_Colorado>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/Smithers,_West_Virginia>	<https://en.wikipedia.org/wiki/Burns,_Colorado>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/Maggie,_West_Virginia>	<https://en.wikipedia.org/wiki/Smithers,_West_Virginia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00073	<https://en.wikipedia.org/wiki/Nintendo>	<https://en.wikipedia.org/wiki/PSN_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/PEP>	<https://en.wikipedia.org/wiki/Walcott,_Norfolk>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00062	<https://en.wikipedia.org/wiki/RSS>	<https://en.wikipedia.org/wiki/Gothamist>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/U.K._(band)>	<https://en.wikipedia.org/wiki/Darkness_(short_story_collection)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/Netflix>	<https://en.wikipedia.org/wiki/Adobe_Inc.>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/U.K._(band)>	<https://en.wikipedia.org/wiki/US_(play)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/Hill,_Wisconsin>	<https://en.wikipedia.org/wiki/US_(play)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/CVG>	<https://en.wikipedia.org/wiki/US_(play)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/U.K._(band)>	<https://en.wikipedia.org/wiki/CVG>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/Hill,_Wisconsin>	<https://en.wikipedia.org/wiki/CVG>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/U.K._(band)>	<https://en.wikipedia.org/wiki/Hill,_Wisconsin>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/Ueda>	<https://en.wikipedia.org/wiki/Sony>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/Yoshida,_Saitama>	<https://en.wikipedia.org/wiki/Sony>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/Ueda>	<https://en.wikipedia.org/wiki/Yoshida,_Saitama>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/Amnesia_(Pousette-Dart_Band_album)>	<https://en.wikipedia.org/wiki/Games_(film)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00070	<https://en.wikipedia.org/wiki/Nintendo>	<https://en.wikipedia.org/wiki/PSN_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Yankees_(album)>	<https://en.wikipedia.org/wiki/Cashman>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Meanwell>	<https://en.wikipedia.org/wiki/Cashman>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Yankees_(album)>	<https://en.wikipedia.org/wiki/Cashman>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Meanwell>	<https://en.wikipedia.org/wiki/Yankees_(album)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Post,_Oregon>	<https://en.wikipedia.org/wiki/Manhattan_(cocktail)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Christians>	<https://en.wikipedia.org/wiki/Sano,_Tochigi>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Post,_Oregon>	<https://en.wikipedia.org/wiki/Sano,_Tochigi>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Christians>	<https://en.wikipedia.org/wiki/Post,_Oregon>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Sano,_Kentucky>	<https://en.wikipedia.org/wiki/Rural_Municipality_of_Louise>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00057	<https://en.wikipedia.org/wiki/Gothamist>	<https://en.wikipedia.org/wiki/RSS>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)>	<https://en.wikipedia.org/wiki/Dota_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/RTS_(Ecuadorian_TV_channel)>	<https://en.wikipedia.org/wiki/Blizzards_(album)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Battle.net>	<https://en.wikipedia.org/wiki/Ancients_(art_group)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Dota_(disambiguation)>	<https://en.wikipedia.org/wiki/Ancients_(art_group)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Starcraft_(horse)>	<https://en.wikipedia.org/wiki/Ancients_(art_group)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)>	<https://en.wikipedia.org/wiki/Ancients_(art_group)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Blizzards_(album)>	<https://en.wikipedia.org/wiki/Ancients_(art_group)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Battle.net>	<https://en.wikipedia.org/wiki/Blizzards_(album)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Dota_(disambiguation)>	<https://en.wikipedia.org/wiki/Blizzards_(album)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Starcraft_(horse)>	<https://en.wikipedia.org/wiki/Blizzards_(album)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)>	<https://en.wikipedia.org/wiki/Blizzards_(album)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Battle.net>	<https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Dota_(disambiguation)>	<https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Starcraft_(horse)>	<https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Battle.net>	<https://en.wikipedia.org/wiki/Starcraft_(horse)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Dota_(disambiguation)>	<https://en.wikipedia.org/wiki/Starcraft_(horse)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Battle.net>	<https://en.wikipedia.org/wiki/Dota_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)>	<https://en.wikipedia.org/wiki/Program_(German_non-profit)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)>	<https://en.wikipedia.org/wiki/Dota>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00074	<https://en.wikipedia.org/wiki/Nintendo>	<https://en.wikipedia.org/wiki/PSN_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Say_Hello_to_the_Angels_/_NYC>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Say_Hello_to_the_Angels_/_NYC>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Say_Hello_to_the_Angels_/_NYC>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Say_Hello_to_the_Angels_/_NYC>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Say_Hello_to_the_Angels_/_NYC>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Say_Hello_to_the_Angels_/_NYC>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00059	<https://en.wikipedia.org/wiki/Gothamist>	<https://en.wikipedia.org/wiki/RSS>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Cavatelli>	<https://en.wikipedia.org/wiki/Caputo>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Sauce,_Corrientes>	<https://en.wikipedia.org/wiki/Italian_language>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/LIC>	<https://en.wikipedia.org/wiki/Italian_language>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Albany,_Georgia>	<https://en.wikipedia.org/wiki/Italian_language>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Sauce,_Corrientes>	<https://en.wikipedia.org/wiki/Albany,_Georgia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/LIC>	<https://en.wikipedia.org/wiki/Albany,_Georgia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/Sauce,_Corrientes>	<https://en.wikipedia.org/wiki/LIC>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00058	<https://en.wikipedia.org/wiki/RSS>	<https://en.wikipedia.org/wiki/Gothamist>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Indonesia>	<https://en.wikipedia.org/wiki/Jakarta>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Jakarta>	<https://en.wikipedia.org/wiki/Greyson>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Indonesia>	<https://en.wikipedia.org/wiki/Indonesian_language>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Oklahoma,_Pennsylvania>	<https://en.wikipedia.org/wiki/Greyson>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Eleveneleven>	<https://en.wikipedia.org/wiki/Greyson>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Australian>	<https://en.wikipedia.org/wiki/USA_(King_Crimson_album)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Asia_(Miami)>	<https://en.wikipedia.org/wiki/Greyson>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Singapore_(South_Africa)>	<https://en.wikipedia.org/wiki/Philippine,_Netherlands>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Jakarta>	<https://en.wikipedia.org/wiki/Philippine,_Netherlands>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Indonesia>	<https://en.wikipedia.org/wiki/Philippine,_Netherlands>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Malaysia>	<https://en.wikipedia.org/wiki/Philippine,_Netherlands>	Instrument-Agency	https://www.wikidata.org/wiki/Property:P2283
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Singapore_(South_Africa)>	<https://en.wikipedia.org/wiki/Malaysia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Jakarta>	<https://en.wikipedia.org/wiki/Malaysia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Indonesia>	<https://en.wikipedia.org/wiki/Malaysia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Singapore_(South_Africa)>	<https://en.wikipedia.org/wiki/Indonesia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Jakarta>	<https://en.wikipedia.org/wiki/Indonesia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Jakarta>	<https://en.wikipedia.org/wiki/Singapore_(South_Africa)>	other
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Greyson>	<https://en.wikipedia.org/wiki/Fox_(comics)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Jakarta>	<https://en.wikipedia.org/wiki/Tata,_Morocco>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Anda,_Heilongjiang>	<https://en.wikipedia.org/wiki/Bila_(sun)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Surabaya>	<https://en.wikipedia.org/wiki/Manggarai,_Tebet>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Jakarta>	<https://en.wikipedia.org/wiki/Manggarai,_Tebet>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Surabaya>	<https://en.wikipedia.org/wiki/Jakarta>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00054	<https://en.wikipedia.org/wiki/Jakarta>	<https://en.wikipedia.org/wiki/Manggarai_Regency>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Georgia,_Nebraska>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Georgia,_Nebraska>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/London,_California>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Georgia,_Nebraska>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Georgia,_Nebraska>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Georgia,_Nebraska>	<https://en.wikipedia.org/wiki/Toronto>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Georgia,_Nebraska>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Georgia,_Nebraska>	<https://en.wikipedia.org/wiki/Augusta,_New_Jersey>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/Japan,_Missouri>	<https://en.wikipedia.org/wiki/Cuomo_(disambiguation)>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00061	<https://en.wikipedia.org/wiki/RSS>	<https://en.wikipedia.org/wiki/Gothamist>	Message-Topic	https://www.wikidata.org/wiki/Property:P921
+RELATION:	clueweb12-0000tw-00-00086	<https://en.wikipedia.org/wiki/Hootsuite>	<https://en.wikipedia.org/wiki/Twitter>	other
+RELATION:	clueweb12-0000tw-00-00083	<https://en.wikipedia.org/wiki/CA_(journal)>	<https://en.wikipedia.org/wiki/Joseph_(comics)>	Instrument-Agency	https://www.wikidata.org/wiki/Property:P2283
+RELATION:	clueweb12-0000tw-00-00083	<https://en.wikipedia.org/wiki/Picasa>	<https://en.wikipedia.org/wiki/WordPress>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00085	<https://en.wikipedia.org/wiki/Republican,_North_Carolina>	<https://en.wikipedia.org/wiki/GOP_(disambiguation)>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00085	<https://en.wikipedia.org/wiki/Facebook>	<https://en.wikipedia.org/wiki/Google>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00085	<https://en.wikipedia.org/wiki/Twitter>	<https://en.wikipedia.org/wiki/Google>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00085	<https://en.wikipedia.org/wiki/Facebook>	<https://en.wikipedia.org/wiki/Twitter>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00085	<https://en.wikipedia.org/wiki/Twitter>	<https://en.wikipedia.org/wiki/Gingrich>	other
+RELATION:	clueweb12-0000tw-00-00085	<https://en.wikipedia.org/wiki/Iowa_(album)>	<https://en.wikipedia.org/wiki/Gingrich>	other
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/Continental,_Arizona>	<https://en.wikipedia.org/wiki/UA>	other
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/FRA>	<https://en.wikipedia.org/wiki/RPU>	Instrument-Agency	https://www.wikidata.org/wiki/Property:P2283
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/RPU>	<https://en.wikipedia.org/wiki/AMS_(Advanced_Music_Systems)>	other
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/RPU>	<https://en.wikipedia.org/wiki/LHR_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/Dub_(magazine)>	<https://en.wikipedia.org/wiki/RPU>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/Dub_(magazine)>	<https://en.wikipedia.org/wiki/FRA>	other
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/Dub_(magazine)>	<https://en.wikipedia.org/wiki/AMS_(Advanced_Music_Systems)>	other
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/Dub_(magazine)>	<https://en.wikipedia.org/wiki/LHR_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/LHR_(disambiguation)>	<https://en.wikipedia.org/wiki/FRA>	other
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/LHR_(disambiguation)>	<https://en.wikipedia.org/wiki/AMS_(Advanced_Music_Systems)>	other
+RELATION:	clueweb12-0000tw-00-00089	<https://en.wikipedia.org/wiki/AMS_(Advanced_Music_Systems)>	<https://en.wikipedia.org/wiki/FRA>	other
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/Continental,_Arizona>	<https://en.wikipedia.org/wiki/UA>	other
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/FRA>	<https://en.wikipedia.org/wiki/RPU>	Instrument-Agency	https://www.wikidata.org/wiki/Property:P2283
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/RPU>	<https://en.wikipedia.org/wiki/AMS_(Advanced_Music_Systems)>	other
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/RPU>	<https://en.wikipedia.org/wiki/LHR_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/Dub_(magazine)>	<https://en.wikipedia.org/wiki/RPU>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/Dub_(magazine)>	<https://en.wikipedia.org/wiki/FRA>	other
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/Dub_(magazine)>	<https://en.wikipedia.org/wiki/AMS_(Advanced_Music_Systems)>	other
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/Dub_(magazine)>	<https://en.wikipedia.org/wiki/LHR_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/LHR_(disambiguation)>	<https://en.wikipedia.org/wiki/FRA>	other
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/LHR_(disambiguation)>	<https://en.wikipedia.org/wiki/AMS_(Advanced_Music_Systems)>	other
+RELATION:	clueweb12-0000tw-00-00088	<https://en.wikipedia.org/wiki/AMS_(Advanced_Music_Systems)>	<https://en.wikipedia.org/wiki/FRA>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Veterans_(Justified)>	<https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Google>	<https://en.wikipedia.org/wiki/Veterans_(Justified)>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Veterans_(Justified)>	<https://en.wikipedia.org/wiki/Tim_(musician)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Tim_(musician)>	<https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Google>	<https://en.wikipedia.org/wiki/Tim_(musician)>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Google>	<https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Bethesda,_Whitchurch-Stouffville>	<https://en.wikipedia.org/wiki/D.C._(TV_series)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Maryland_(cigarette)>	<https://en.wikipedia.org/wiki/Bethesda,_Whitchurch-Stouffville>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Bethesda,_Whitchurch-Stouffville>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/D.C._(TV_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Maryland_(cigarette)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Maryland_(cigarette)>	<https://en.wikipedia.org/wiki/D.C._(TV_series)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Richmond,_Rhode_Island>	<https://en.wikipedia.org/wiki/Pros>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Pros>	<https://en.wikipedia.org/wiki/Philadelphia_(Faiyum)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Philadelphia_(Faiyum)>	<https://en.wikipedia.org/wiki/Richmond,_Rhode_Island>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Facebook>	<https://en.wikipedia.org/wiki/Twitter>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Columbia_(supercontinent)>	<https://en.wikipedia.org/wiki/Connecticut>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Connecticut>	<https://en.wikipedia.org/wiki/Maryland_(automobile)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Connecticut>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Connecticut>	<https://en.wikipedia.org/wiki/Iowa_(album)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Massachusetts>	<https://en.wikipedia.org/wiki/Connecticut>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Connecticut>	<https://en.wikipedia.org/wiki/Vermont,_Wisconsin>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Columbia_(supercontinent)>	<https://en.wikipedia.org/wiki/Vermont,_Wisconsin>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Vermont,_Wisconsin>	<https://en.wikipedia.org/wiki/Maryland_(automobile)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Vermont,_Wisconsin>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Iowa_(album)>	<https://en.wikipedia.org/wiki/Vermont,_Wisconsin>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Vermont,_Wisconsin>	<https://en.wikipedia.org/wiki/Massachusetts>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Columbia_(supercontinent)>	<https://en.wikipedia.org/wiki/Massachusetts>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Massachusetts>	<https://en.wikipedia.org/wiki/Maryland_(automobile)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Massachusetts>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Massachusetts>	<https://en.wikipedia.org/wiki/Iowa_(album)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Columbia_(supercontinent)>	<https://en.wikipedia.org/wiki/Iowa_(album)>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Iowa_(album)>	<https://en.wikipedia.org/wiki/Maryland_(automobile)>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Iowa_(album)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Columbia_(supercontinent)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Maryland_(automobile)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Columbia_(supercontinent)>	<https://en.wikipedia.org/wiki/Maryland_(automobile)>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Hawaii_(island)>	<https://en.wikipedia.org/wiki/Delaware,_Ohio>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Illinois_(song)>	<https://en.wikipedia.org/wiki/Delaware,_Ohio>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00094	<https://en.wikipedia.org/wiki/Illinois_(song)>	<https://en.wikipedia.org/wiki/Hawaii_(island)>	other
+RELATION:	clueweb12-0000tw-00-00097	<https://en.wikipedia.org/wiki/Tim_(musician)>	<https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)>	other
+RELATION:	clueweb12-0000tw-00-00097	<https://en.wikipedia.org/wiki/Tim_(musician)>	<https://en.wikipedia.org/wiki/Google>	other
+RELATION:	clueweb12-0000tw-00-00097	<https://en.wikipedia.org/wiki/Tim_(musician)>	<https://en.wikipedia.org/wiki/Veterans_(Justified)>	other
+RELATION:	clueweb12-0000tw-00-00097	<https://en.wikipedia.org/wiki/Veterans_(Justified)>	<https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)>	other
+RELATION:	clueweb12-0000tw-00-00097	<https://en.wikipedia.org/wiki/Veterans_(Justified)>	<https://en.wikipedia.org/wiki/Google>	other
+RELATION:	clueweb12-0000tw-00-00097	<https://en.wikipedia.org/wiki/Google>	<https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)>	other
+RELATION:	clueweb12-0000tw-00-00105	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00105	<https://en.wikipedia.org/wiki/Boston,_Accomack_County,_Virginia>	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00105	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	<https://en.wikipedia.org/wiki/Boston,_Accomack_County,_Virginia>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00105	<https://en.wikipedia.org/wiki/Crimson_(comic_book)>	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	other
+RELATION:	clueweb12-0000tw-00-00105	<https://en.wikipedia.org/wiki/Quakers>	<https://en.wikipedia.org/wiki/Brown,_California>	other
+RELATION:	clueweb12-0000tw-00-00105	<https://en.wikipedia.org/wiki/McLaughlin,_South_Dakota>	<https://en.wikipedia.org/wiki/Kara_(Supergirl_episode)>	other
+RELATION:	clueweb12-0000tw-00-00105	<https://en.wikipedia.org/wiki/Dartmouth,_Nova_Scotia>	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	other
+RELATION:	clueweb12-0000tw-00-00105	<https://en.wikipedia.org/wiki/BDS>	<https://en.wikipedia.org/wiki/Palestinians>	other
+RELATION:	clueweb12-0000tw-00-00105	<https://en.wikipedia.org/wiki/Casanova,_Virginia>	<https://en.wikipedia.org/wiki/Asian>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/Trenton,_New_Jersey>	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/Zack>	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	<https://en.wikipedia.org/wiki/Princeton,_Wisconsin>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	<https://en.wikipedia.org/wiki/Princeton,_Wisconsin>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/Cowboys_(2020_film)>	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/Cowboys_(2020_film)>	<https://en.wikipedia.org/wiki/Yankees_(album)>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	<https://en.wikipedia.org/wiki/Yankees_(album)>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/Quakers>	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/D.C._(TV_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/BDS>	<https://en.wikipedia.org/wiki/Palestinians>	other
+RELATION:	clueweb12-0000tw-00-00104	<https://en.wikipedia.org/wiki/Casanova,_Virginia>	<https://en.wikipedia.org/wiki/Asian>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/DC_(Succession)>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00106	<https://en.wikipedia.org/wiki/NBC>	<https://en.wikipedia.org/wiki/Medicaid>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00107	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Palestra>	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	<https://en.wikipedia.org/wiki/Palestra>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	Component-Whole	https://www.wikidata.org/wiki/Property:P31
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	<https://en.wikipedia.org/wiki/Palestra>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Palestra>	<https://en.wikipedia.org/wiki/Lin,_Kor%C3%A7%C3%AB>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Palestra>	<https://en.wikipedia.org/wiki/Wizards_(anthology)>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	<https://en.wikipedia.org/wiki/Wizards_(anthology)>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Lin,_Kor%C3%A7%C3%AB>	<https://en.wikipedia.org/wiki/Wizards_(anthology)>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Harvard,_Massachusetts>	<https://en.wikipedia.org/wiki/Lin,_Kor%C3%A7%C3%AB>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Maloney,_Kentucky>	<https://en.wikipedia.org/wiki/Archives_(Rush_album)>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Allen_(Prison_Break)>	<https://en.wikipedia.org/wiki/Archives_(Rush_album)>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Allen_(Prison_Break)>	<https://en.wikipedia.org/wiki/Maloney,_Kentucky>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	<https://en.wikipedia.org/wiki/Princeton,_Wisconsin>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Boston,_Accomack_County,_Virginia>	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	<https://en.wikipedia.org/wiki/Cornell,_Wisconsin>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Palestra>	<https://en.wikipedia.org/wiki/Bucknell,_Oxfordshire>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Palestra>	<https://en.wikipedia.org/wiki/Lewisburg,_Louisiana>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Palestra>	<https://en.wikipedia.org/wiki/Columbia_(supercontinent)>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Bucknell,_Oxfordshire>	<https://en.wikipedia.org/wiki/Columbia_(supercontinent)>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Lewisburg,_Louisiana>	<https://en.wikipedia.org/wiki/Columbia_(supercontinent)>	Cause-Effect	https://www.wikidata.org/wiki/Property:P828
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Lewisburg,_Louisiana>	<https://en.wikipedia.org/wiki/Bucknell,_Oxfordshire>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	<https://en.wikipedia.org/wiki/Penn,_Pennsylvania>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Romney,_Texas>	<https://en.wikipedia.org/wiki/Gingrich>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Iran>	<https://en.wikipedia.org/wiki/Obama_(surname)>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Boycott,_Buckinghamshire>	<https://en.wikipedia.org/wiki/Israel_(Siouxsie_and_the_Banshees_song)>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/BDS>	<https://en.wikipedia.org/wiki/Palestinians>	other
+RELATION:	clueweb12-0000tw-00-00103	<https://en.wikipedia.org/wiki/Casanova,_Virginia>	<https://en.wikipedia.org/wiki/Asian>	other
+RELATION:	clueweb12-0000tw-00-00117	<https://en.wikipedia.org/wiki/Libertyville,_Missouri>	<https://en.wikipedia.org/wiki/Indiana_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00117	<https://en.wikipedia.org/wiki/Indiana_(disambiguation)>	<https://en.wikipedia.org/wiki/Illinois_(song)>	other
+RELATION:	clueweb12-0000tw-00-00117	<https://en.wikipedia.org/wiki/Indiana_(disambiguation)>	<https://en.wikipedia.org/wiki/Division_of_Cook_(1906%E2%80%931955)>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00115	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00113	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00110	<https://en.wikipedia.org/wiki/YouTube_(channel)>	<https://en.wikipedia.org/wiki/NPR>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Indiana_(disambiguation)>	<https://en.wikipedia.org/wiki/Illinois_(song)>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Hoosiers_(film)>	<https://en.wikipedia.org/wiki/Indiana_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Hoosier>	<https://en.wikipedia.org/wiki/Leonard,_West_Virginia>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Illini>	<https://en.wikipedia.org/wiki/NCAA_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Iowa_(album)>	<https://en.wikipedia.org/wiki/NCAA_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Indiana_(disambiguation)>	<https://en.wikipedia.org/wiki/Kentucky>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Indiana_(disambiguation)>	<https://en.wikipedia.org/wiki/Illini>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Illini>	<https://en.wikipedia.org/wiki/Kentucky>	other
+RELATION:	clueweb12-0000tw-00-00112	<https://en.wikipedia.org/wiki/Ill_(France)>	<https://en.wikipedia.org/wiki/Hoosier>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Deng_(state)>	<https://en.wikipedia.org/wiki/Orlando_(Angolan_footballer)>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Deng_(state)>	<https://en.wikipedia.org/wiki/Bulls_(rugby_union)>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Deng_(state)>	<https://en.wikipedia.org/wiki/Orlando_(Angolan_footballer)>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/Lu_(state)>	<https://en.wikipedia.org/wiki/Major_vault_protein>	other
+RELATION:	clueweb12-0000tw-00-00111	<https://en.wikipedia.org/wiki/News_(publishing)>	<https://en.wikipedia.org/wiki/Derrick>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Obama,_Nagasaki>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Obama,_Nagasaki>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Obama,_Nagasaki>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Obama,_Nagasaki>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Obama,_Nagasaki>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Obama,_Nagasaki>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/PPO>	<https://en.wikipedia.org/wiki/HMO_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Vatican,_Louisiana>	<https://en.wikipedia.org/wiki/Catholic_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/GOP_(disambiguation)>	<https://en.wikipedia.org/wiki/Obama_(genus)>	other
+RELATION:	clueweb12-0000tw-00-00108	<https://en.wikipedia.org/wiki/Catholic_(disambiguation)>	<https://en.wikipedia.org/wiki/Republicans_(Brazil)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Whistler,_British_Columbia>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Whistler,_British_Columbia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Whistler,_British_Columbia>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Whistler,_British_Columbia>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Whistler,_British_Columbia>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Whistler,_British_Columbia>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Whistler,_British_Columbia>	<https://en.wikipedia.org/wiki/Tiki>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Whistler,_British_Columbia>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/American_(1917_automobile)>	<https://en.wikipedia.org/wiki/French_people>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Irish_(Junior_Cert)>	<https://en.wikipedia.org/wiki/Scots_language>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Paul,_Nebraska>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00114	<https://en.wikipedia.org/wiki/Hawaii_(island)>	<https://en.wikipedia.org/wiki/Nicholas_(Yarushevich)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/DC_(Succession)>	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Washington,_West_Sussex>	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Shanghai_(film_series)>	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Austin,_Western_Australia>	<https://en.wikipedia.org/wiki/London,_California>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/London,_California>	<https://en.wikipedia.org/wiki/Toronto>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Toronto>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Minneapolis,_North_Carolina>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Nelson,_Lancashire>	<https://en.wikipedia.org/wiki/Becker,_Minnesota>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Nelson,_Lancashire>	<https://en.wikipedia.org/wiki/Gilroy,_California>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Nelson,_Lancashire>	<https://en.wikipedia.org/wiki/Stephenson,_Wisconsin>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Stephenson,_Wisconsin>	<https://en.wikipedia.org/wiki/Becker,_Minnesota>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Stephenson,_Wisconsin>	<https://en.wikipedia.org/wiki/Gilroy,_California>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Gilroy,_California>	<https://en.wikipedia.org/wiki/Becker,_Minnesota>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Nelson,_Lancashire>	<https://en.wikipedia.org/wiki/Gacy_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Nelson,_Lancashire>	<https://en.wikipedia.org/wiki/Gilroy,_California>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Gilroy,_California>	<https://en.wikipedia.org/wiki/Gacy_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Stephenson,_Wisconsin>	<https://en.wikipedia.org/wiki/Pittsburgh,_Kingston>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Stephenson,_Wisconsin>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Stephenson,_Wisconsin>	<https://en.wikipedia.org/wiki/Gacy_(disambiguation)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Gacy_(disambiguation)>	<https://en.wikipedia.org/wiki/Pittsburgh,_Kingston>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Gacy_(disambiguation)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/Pittsburgh,_Kingston>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Gacy_(disambiguation)>	<https://en.wikipedia.org/wiki/Nelsons_(Homeopathy)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Gacy_(disambiguation)>	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)>	<https://en.wikipedia.org/wiki/Nelsons_(Homeopathy)>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Nelsons_(Homeopathy)>	<https://en.wikipedia.org/wiki/Becker,_Minnesota>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Nelsons_(Homeopathy)>	<https://en.wikipedia.org/wiki/Stephenson,_Wisconsin>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Stephenson,_Wisconsin>	<https://en.wikipedia.org/wiki/Becker,_Minnesota>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Florida,_Colorado>	<https://en.wikipedia.org/wiki/Oregon>	other
+RELATION:	clueweb12-0000tw-00-00109	<https://en.wikipedia.org/wiki/Gacy_(disambiguation)>	<https://en.wikipedia.org/wiki/CBS>	other

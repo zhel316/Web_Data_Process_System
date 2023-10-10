@@ -1,0 +1,1251 @@
+clueweb12-0000tw-00-00001	Search	https://en.wikipedia.org/wiki/Search_(South_Korean_TV_series)
+clueweb12-0000tw-00-00001	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00002	Search	https://en.wikipedia.org/wiki/Search_(South_Korean_TV_series)
+clueweb12-0000tw-00-00002	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00003	Search	https://en.wikipedia.org/wiki/Search_(South_Korean_TV_series)
+clueweb12-0000tw-00-00003	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00004	Tourelle	https://en.wikipedia.org/wiki/Tourelle_(architecture)
+clueweb12-0000tw-00-00004	Search	https://en.wikipedia.org/wiki/Search_(South_Korean_TV_series)
+clueweb12-0000tw-00-00004	Tourelle	https://en.wikipedia.org/wiki/Tourelle_(architecture)
+clueweb12-0000tw-00-00004	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00007	Maggie	https://en.wikipedia.org/wiki/Maggie,_West_Virginia
+clueweb12-0000tw-00-00007	Noel	https://en.wikipedia.org/wiki/Noel_(company)
+clueweb12-0000tw-00-00007	Collette	https://en.wikipedia.org/wiki/Collette,_New_Brunswick
+clueweb12-0000tw-00-00007	Michelle	https://en.wikipedia.org/wiki/Michelle_(German_singer)
+clueweb12-0000tw-00-00007	Michelle	https://en.wikipedia.org/wiki/Michelle_(song)
+clueweb12-0000tw-00-00007	Frank	https://en.wikipedia.org/wiki/Frank,_North_Carolina
+clueweb12-0000tw-00-00007	Frank	https://en.wikipedia.org/wiki/Frank,_North_Carolina
+clueweb12-0000tw-00-00007	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00007	Ill	https://en.wikipedia.org/wiki/Ill_(France)
+clueweb12-0000tw-00-00007	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00008	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00008	Ill	https://en.wikipedia.org/wiki/Ill_(France)
+clueweb12-0000tw-00-00008	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00009	Disney Princess	https://en.wikipedia.org/wiki/Disney_Princess
+clueweb12-0000tw-00-00009	Disney	https://en.wikipedia.org/wiki/Disney,_Oklahoma
+clueweb12-0000tw-00-00009	WDW	https://en.wikipedia.org/wiki/WDW_(Washington,_D.C.)
+clueweb12-0000tw-00-00009	WDW	https://en.wikipedia.org/wiki/WDW_(Washington,_D.C.)
+clueweb12-0000tw-00-00009	WDW	https://en.wikipedia.org/wiki/WDW_(Washington,_D.C.)
+clueweb12-0000tw-00-00009	World	https://en.wikipedia.org/wiki/World_(Lindita_song)
+clueweb12-0000tw-00-00009	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00009	Ill	https://en.wikipedia.org/wiki/Ill_(France)
+clueweb12-0000tw-00-00009	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00012	Stylish	https://en.wikipedia.org/wiki/Stylish
+clueweb12-0000tw-00-00012	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00013	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00013	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00013	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00013	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00013	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00013	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00013	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00013	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00014	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00014	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00014	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00014	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00014	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00014	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00014	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00014	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00015	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00015	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00015	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00015	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00015	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00015	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00015	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00015	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00016	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00016	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00016	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00016	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00016	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00016	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00016	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00016	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00017	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00017	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00017	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00017	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00017	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00017	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00017	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00017	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00018	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00018	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00018	Berlin	https://en.wikipedia.org/wiki/Berlin,_Wisconsin
+clueweb12-0000tw-00-00018	Berlin Patient	https://en.wikipedia.org/wiki/Berlin_Patient
+clueweb12-0000tw-00-00018	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00018	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00018	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00018	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00018	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00018	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00019	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00019	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00019	State	https://en.wikipedia.org/wiki/State_(website)
+clueweb12-0000tw-00-00019	Medicaid	https://en.wikipedia.org/wiki/Medicaid
+clueweb12-0000tw-00-00019	CDC	https://en.wikipedia.org/wiki/CDC_(disambiguation)
+clueweb12-0000tw-00-00019	U.S.	https://en.wikipedia.org/wiki/Us
+clueweb12-0000tw-00-00019	U.S.	https://en.wikipedia.org/wiki/Us
+clueweb12-0000tw-00-00019	NIMH	https://en.wikipedia.org/wiki/NIMH
+clueweb12-0000tw-00-00019	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00019	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00019	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00019	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00019	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00019	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00020	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00020	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00020	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00020	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00020	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00020	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00020	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00020	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00021	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00021	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00021	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00021	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00021	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00021	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00021	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00021	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00022	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00022	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00022	California	https://en.wikipedia.org/wiki/California,_Buckinghamshire
+clueweb12-0000tw-00-00022	Care	https://en.wikipedia.org/wiki/Care_(film)
+clueweb12-0000tw-00-00022	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00022	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00022	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00022	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00022	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00022	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00023	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00023	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00023	Americans	https://en.wikipedia.org/wiki/Americans
+clueweb12-0000tw-00-00023	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00023	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00023	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00023	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00023	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00023	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00024	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00024	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00024	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00024	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00024	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00024	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00024	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00024	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00025	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00025	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00025	Baby Boomers	https://en.wikipedia.org/wiki/Baby_boomers
+clueweb12-0000tw-00-00025	House	https://en.wikipedia.org/wiki/House_(film_series)
+clueweb12-0000tw-00-00025	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00025	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00025	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00025	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00025	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00025	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00026	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00026	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00026	New Zealand	https://en.wikipedia.org/wiki/New_Zealand,_Buckinghamshire
+clueweb12-0000tw-00-00026	New Zealand	https://en.wikipedia.org/wiki/New_Zealand,_Buckinghamshire
+clueweb12-0000tw-00-00026	New Zealand	https://en.wikipedia.org/wiki/New_Zealand
+clueweb12-0000tw-00-00026	ACC	https://en.wikipedia.org/wiki/ACC_(programming_language)
+clueweb12-0000tw-00-00026	MOH	https://en.wikipedia.org/wiki/MOH
+clueweb12-0000tw-00-00026	New Zealand	https://en.wikipedia.org/wiki/New_Zealand
+clueweb12-0000tw-00-00026	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00026	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00026	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00026	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00026	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00026	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00027	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00027	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00027	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00027	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00027	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00027	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00027	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00027	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00028	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00028	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00028	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00028	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00028	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00028	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00028	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00028	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00028	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00029	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00029	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00029	Primary Health Care	https://en.wikipedia.org/wiki/Primary_health_care
+clueweb12-0000tw-00-00029	Austin	https://en.wikipedia.org/wiki/Austin,_Western_Australia
+clueweb12-0000tw-00-00029	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00029	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00029	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00029	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00029	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00029	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00030	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00030	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00030	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00030	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00030	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00031	Bladder	https://en.wikipedia.org/wiki/Bladder_(disambiguation)
+clueweb12-0000tw-00-00031	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00031	Hodgkins	https://en.wikipedia.org/wiki/Hodgkins,_Illinois
+clueweb12-0000tw-00-00031	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00031	Mouth	https://en.wikipedia.org/wiki/Mouth_(Merril_Bainbridge_song)
+clueweb12-0000tw-00-00031	United	https://en.wikipedia.org/wiki/United,_West_Virginia
+clueweb12-0000tw-00-00031	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00031	Cancer	https://en.wikipedia.org/wiki/Cancer_(astrology)
+clueweb12-0000tw-00-00031	Health Care	https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+clueweb12-0000tw-00-00033	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00033	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00033	Orlando Sentinel	https://en.wikipedia.org/wiki/Orlando_Sentinel
+clueweb12-0000tw-00-00033	Greece	https://en.wikipedia.org/wiki/Greece
+clueweb12-0000tw-00-00033	ATHENS	https://en.wikipedia.org/wiki/ATHENS
+clueweb12-0000tw-00-00033	USA	https://en.wikipedia.org/wiki/USA_(King_Crimson_album)
+clueweb12-0000tw-00-00033	Athens	https://en.wikipedia.org/wiki/Athens
+clueweb12-0000tw-00-00033	AP	https://en.wikipedia.org/wiki/AP_(song)
+clueweb12-0000tw-00-00033	Greek	https://en.wikipedia.org/wiki/Greek_(TV_series)
+clueweb12-0000tw-00-00033	European	https://en.wikipedia.org/wiki/European
+clueweb12-0000tw-00-00033	Greece	https://en.wikipedia.org/wiki/Greece
+clueweb12-0000tw-00-00033	CNN	https://en.wikipedia.org/wiki/CNN
+clueweb12-0000tw-00-00033	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles_(The_Brilliant_Green_album)
+clueweb12-0000tw-00-00033	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00033	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00033	Greek	https://en.wikipedia.org/wiki/Greek_(TV_series)
+clueweb12-0000tw-00-00033	AP	https://en.wikipedia.org/wiki/AP_(song)
+clueweb12-0000tw-00-00033	Richard Drew	https://en.wikipedia.org/wiki/Richard_Drew_(photographer)
+clueweb12-0000tw-00-00033	AP	https://en.wikipedia.org/wiki/AP_convoys
+clueweb12-0000tw-00-00033	Greek	https://en.wikipedia.org/wiki/Greek_(TV_series)
+clueweb12-0000tw-00-00033	Slump	https://en.wikipedia.org/wiki/Slump
+clueweb12-0000tw-00-00033	Guardian	https://en.wikipedia.org/wiki/Guardian_(DC_Comics)
+clueweb12-0000tw-00-00033	Fox Business	https://en.wikipedia.org/wiki/Fox_Business
+clueweb12-0000tw-00-00033	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00034	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00034	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00034	Orlando Sentinel	https://en.wikipedia.org/wiki/Orlando_Sentinel
+clueweb12-0000tw-00-00034	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00034	Guardian	https://en.wikipedia.org/wiki/Guardian_(DC_Comics)
+clueweb12-0000tw-00-00034	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00035	CNN	https://en.wikipedia.org/wiki/CNN
+clueweb12-0000tw-00-00035	First Solar	https://en.wikipedia.org/wiki/First_Solar
+clueweb12-0000tw-00-00035	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00035	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00035	Orlando Sentinel	https://en.wikipedia.org/wiki/Orlando_Sentinel
+clueweb12-0000tw-00-00035	CNN	https://en.wikipedia.org/wiki/CNN
+clueweb12-0000tw-00-00035	First Solar	https://en.wikipedia.org/wiki/First_Solar
+clueweb12-0000tw-00-00035	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00035	Guardian	https://en.wikipedia.org/wiki/Guardian_(DC_Comics)
+clueweb12-0000tw-00-00035	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00036	Washington Post	https://en.wikipedia.org/wiki/Washington_Post_(disambiguation)
+clueweb12-0000tw-00-00036	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00036	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00036	Orlando Sentinel	https://en.wikipedia.org/wiki/Orlando_Sentinel
+clueweb12-0000tw-00-00036	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00036	Seattle	https://en.wikipedia.org/wiki/Seattle
+clueweb12-0000tw-00-00036	Guardian	https://en.wikipedia.org/wiki/Guardian_(DC_Comics)
+clueweb12-0000tw-00-00036	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00037	Washington Post	https://en.wikipedia.org/wiki/Washington_Post_(disambiguation)
+clueweb12-0000tw-00-00037	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00037	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00037	Orlando Sentinel	https://en.wikipedia.org/wiki/Orlando_Sentinel
+clueweb12-0000tw-00-00037	German	https://en.wikipedia.org/wiki/German_(mythology)
+clueweb12-0000tw-00-00037	Washington Post	https://en.wikipedia.org/wiki/Washington_Post_(disambiguation)
+clueweb12-0000tw-00-00037	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00037	New York	https://en.wikipedia.org/wiki/New_York_(Angel_Haze_song)
+clueweb12-0000tw-00-00037	Paris	https://en.wikipedia.org/wiki/Paris
+clueweb12-0000tw-00-00037	Guardian	https://en.wikipedia.org/wiki/Guardian_(DC_Comics)
+clueweb12-0000tw-00-00037	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00038	Washington Post	https://en.wikipedia.org/wiki/Washington_Post_(disambiguation)
+clueweb12-0000tw-00-00038	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00038	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00038	Orlando Sentinel	https://en.wikipedia.org/wiki/Orlando_Sentinel
+clueweb12-0000tw-00-00038	German	https://en.wikipedia.org/wiki/German_(mythology)
+clueweb12-0000tw-00-00038	Washington Post	https://en.wikipedia.org/wiki/Washington_Post_(disambiguation)
+clueweb12-0000tw-00-00038	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00038	New York	https://en.wikipedia.org/wiki/New_York_(Angel_Haze_song)
+clueweb12-0000tw-00-00038	Paris	https://en.wikipedia.org/wiki/Paris
+clueweb12-0000tw-00-00038	Guardian	https://en.wikipedia.org/wiki/Guardian_(DC_Comics)
+clueweb12-0000tw-00-00038	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00039	Reuters	https://en.wikipedia.org/wiki/Reuters
+clueweb12-0000tw-00-00039	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00039	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00039	Orlando Sentinel	https://en.wikipedia.org/wiki/Orlando_Sentinel
+clueweb12-0000tw-00-00039	Reuters	https://en.wikipedia.org/wiki/Reuters
+clueweb12-0000tw-00-00039	Irish	https://en.wikipedia.org/wiki/Irish_(Junior_Cert)
+clueweb12-0000tw-00-00039	French	https://en.wikipedia.org/wiki/French_people
+clueweb12-0000tw-00-00039	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00039	SA	https://en.wikipedia.org/wiki/SA
+clueweb12-0000tw-00-00039	Guardian	https://en.wikipedia.org/wiki/Guardian_(DC_Comics)
+clueweb12-0000tw-00-00039	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00040	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00040	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00040	Orlando Sentinel	https://en.wikipedia.org/wiki/Orlando_Sentinel
+clueweb12-0000tw-00-00040	Haiti	https://en.wikipedia.org/wiki/Haiti
+clueweb12-0000tw-00-00040	Yele	https://en.wikipedia.org/wiki/Yele_language
+clueweb12-0000tw-00-00040	Haiti	https://en.wikipedia.org/wiki/Haiti
+clueweb12-0000tw-00-00040	Wyclef Jean	https://en.wikipedia.org/wiki/Wyclef_Jean_(song)
+clueweb12-0000tw-00-00040	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00040	Guardian	https://en.wikipedia.org/wiki/Guardian_(DC_Comics)
+clueweb12-0000tw-00-00040	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00041	Irish Times	https://en.wikipedia.org/wiki/Irish_Times_(album)
+clueweb12-0000tw-00-00041	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00041	CBS News	https://en.wikipedia.org/wiki/CBS_News
+clueweb12-0000tw-00-00041	Orlando Sentinel	https://en.wikipedia.org/wiki/Orlando_Sentinel
+clueweb12-0000tw-00-00041	Russian	https://en.wikipedia.org/wiki/Russian_(comics)
+clueweb12-0000tw-00-00041	Search	https://en.wikipedia.org/wiki/Search_(South_Korean_TV_series)
+clueweb12-0000tw-00-00041	Wales	https://en.wikipedia.org/wiki/Wales
+clueweb12-0000tw-00-00041	Holyhead	https://en.wikipedia.org/wiki/Holyhead
+clueweb12-0000tw-00-00041	Russian	https://en.wikipedia.org/wiki/Russian_(comics)
+clueweb12-0000tw-00-00041	Irish Sea	https://en.wikipedia.org/wiki/Irish_Sea
+clueweb12-0000tw-00-00041	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00041	Guardian	https://en.wikipedia.org/wiki/Guardian_(DC_Comics)
+clueweb12-0000tw-00-00041	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00045	JavaScript	https://en.wikipedia.org/wiki/JavaScript
+clueweb12-0000tw-00-00045	Elliot	https://en.wikipedia.org/wiki/Elliot,_Angus
+clueweb12-0000tw-00-00046	Home Video	https://en.wikipedia.org/wiki/Home_Video_(band)
+clueweb12-0000tw-00-00046	Safari	https://en.wikipedia.org/wiki/Safari_(1956_film)
+clueweb12-0000tw-00-00046	Windows Media	https://en.wikipedia.org/wiki/Windows_Media
+clueweb12-0000tw-00-00047	Italian	https://en.wikipedia.org/wiki/Italian_language
+clueweb12-0000tw-00-00047	bread crumbs	https://en.wikipedia.org/wiki/Bread_crumbs
+clueweb12-0000tw-00-00047	Cover	https://en.wikipedia.org/wiki/Cover_(Tom_Verlaine_album)
+clueweb12-0000tw-00-00047	Cover	https://en.wikipedia.org/wiki/Cover_(Joan_as_Policewoman_album)
+clueweb12-0000tw-00-00047	Mozzarella	https://en.wikipedia.org/wiki/Mozzarella
+clueweb12-0000tw-00-00047	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00047	Dinner	https://en.wikipedia.org/wiki/Dinner_(disambiguation)
+clueweb12-0000tw-00-00047	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00048	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00048	Dinner	https://en.wikipedia.org/wiki/Dinner_(disambiguation)
+clueweb12-0000tw-00-00048	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00049	cayenne pepper	https://en.wikipedia.org/wiki/Cayenne_pepper
+clueweb12-0000tw-00-00049	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00049	Dinner	https://en.wikipedia.org/wiki/Dinner_(disambiguation)
+clueweb12-0000tw-00-00049	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00050	basil	https://en.wikipedia.org/wiki/Basil
+clueweb12-0000tw-00-00050	Mozzarella	https://en.wikipedia.org/wiki/Mozzarella
+clueweb12-0000tw-00-00050	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00050	Dinner	https://en.wikipedia.org/wiki/Dinner_(disambiguation)
+clueweb12-0000tw-00-00050	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00051	Costco	https://en.wikipedia.org/wiki/Costco
+clueweb12-0000tw-00-00051	Sams	https://en.wikipedia.org/wiki/Sams,_Colorado
+clueweb12-0000tw-00-00051	Sams	https://en.wikipedia.org/wiki/Sams,_Colorado
+clueweb12-0000tw-00-00051	Gold Star	https://en.wikipedia.org/wiki/Gold_Star
+clueweb12-0000tw-00-00051	Costco	https://en.wikipedia.org/wiki/Costco
+clueweb12-0000tw-00-00051	Costco	https://en.wikipedia.org/wiki/Costco
+clueweb12-0000tw-00-00051	Elizabeth	https://en.wikipedia.org/wiki/Elizabeth,_Pennsylvania
+clueweb12-0000tw-00-00051	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00051	Dinner	https://en.wikipedia.org/wiki/Dinner_(disambiguation)
+clueweb12-0000tw-00-00051	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00054	Greyson Chance	https://en.wikipedia.org/wiki/Greyson_Chance
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00054	Indonesia	https://en.wikipedia.org/wiki/Indonesia
+clueweb12-0000tw-00-00054	Greyson Chance	https://en.wikipedia.org/wiki/Greyson_Chance
+clueweb12-0000tw-00-00054	Greyson Chance	https://en.wikipedia.org/wiki/Greyson_Chance
+clueweb12-0000tw-00-00054	Indonesia	https://en.wikipedia.org/wiki/Indonesia
+clueweb12-0000tw-00-00054	Greyson Chance	https://en.wikipedia.org/wiki/Greyson_Chance
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00054	Greyson	https://en.wikipedia.org/wiki/Greyson
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00054	Greyson Chance	https://en.wikipedia.org/wiki/Greyson_Chance
+clueweb12-0000tw-00-00054	Indonesia	https://en.wikipedia.org/wiki/Indonesia
+clueweb12-0000tw-00-00054	Asia	https://en.wikipedia.org/wiki/Asia_(Miami)
+clueweb12-0000tw-00-00054	Indonesian	https://en.wikipedia.org/wiki/Indonesian_language
+clueweb12-0000tw-00-00054	Greyson Chance	https://en.wikipedia.org/wiki/Greyson_Chance
+clueweb12-0000tw-00-00054	Indonesian	https://en.wikipedia.org/wiki/Indonesian_language
+clueweb12-0000tw-00-00054	Indonesia	https://en.wikipedia.org/wiki/Indonesia
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00054	Greyson	https://en.wikipedia.org/wiki/Greyson
+clueweb12-0000tw-00-00054	Michael Chance	https://en.wikipedia.org/wiki/Michael_Chance
+clueweb12-0000tw-00-00054	Oklahoma	https://en.wikipedia.org/wiki/Oklahoma,_Pennsylvania
+clueweb12-0000tw-00-00054	Greyson	https://en.wikipedia.org/wiki/Greyson
+clueweb12-0000tw-00-00054	Greyson	https://en.wikipedia.org/wiki/Greyson
+clueweb12-0000tw-00-00054	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles,_Bohol
+clueweb12-0000tw-00-00054	Lady Gaga	https://en.wikipedia.org/wiki/Lady_Gaga
+clueweb12-0000tw-00-00054	Greyson Chance	https://en.wikipedia.org/wiki/Greyson_Chance
+clueweb12-0000tw-00-00054	Ellen	https://en.wikipedia.org/wiki/Ellen_(TV_series)
+clueweb12-0000tw-00-00054	Ellen DeGeneres	https://en.wikipedia.org/wiki/Ellen_DeGeneres
+clueweb12-0000tw-00-00054	Broken Hearts	https://en.wikipedia.org/wiki/Broken_Hearts_(Homeland)
+clueweb12-0000tw-00-00054	Interscope Records	https://en.wikipedia.org/wiki/Interscope_Records
+clueweb12-0000tw-00-00054	Greyson	https://en.wikipedia.org/wiki/Greyson
+clueweb12-0000tw-00-00054	Ellen DeGeneres	https://en.wikipedia.org/wiki/Ellen_DeGeneres
+clueweb12-0000tw-00-00054	eleveneleven	https://en.wikipedia.org/wiki/Eleveneleven
+clueweb12-0000tw-00-00054	Ellen	https://en.wikipedia.org/wiki/Ellen_(TV_series)
+clueweb12-0000tw-00-00054	David Archuleta	https://en.wikipedia.org/wiki/David_Archuleta
+clueweb12-0000tw-00-00054	Yahoo	https://en.wikipedia.org/wiki/Yahoo_(Gulliver%27s_Travels)
+clueweb12-0000tw-00-00054	Guy Oseary	https://en.wikipedia.org/wiki/Guy_Oseary
+clueweb12-0000tw-00-00054	Madonna	https://en.wikipedia.org/wiki/Madonna_(art)
+clueweb12-0000tw-00-00054	Demi Moore	https://en.wikipedia.org/wiki/Demi_Moore
+clueweb12-0000tw-00-00054	iTunes	https://en.wikipedia.org/wiki/ITunes
+clueweb12-0000tw-00-00054	USA	https://en.wikipedia.org/wiki/USA_(King_Crimson_album)
+clueweb12-0000tw-00-00054	Australian	https://en.wikipedia.org/wiki/Australian
+clueweb12-0000tw-00-00054	Cody Simpson	https://en.wikipedia.org/wiki/Cody_Simpson
+clueweb12-0000tw-00-00054	Ellen DeGeneres	https://en.wikipedia.org/wiki/Ellen_DeGeneres
+clueweb12-0000tw-00-00054	Greyson	https://en.wikipedia.org/wiki/Greyson
+clueweb12-0000tw-00-00054	Asia	https://en.wikipedia.org/wiki/Asia_(Miami)
+clueweb12-0000tw-00-00054	Philippine	https://en.wikipedia.org/wiki/Philippine,_Netherlands
+clueweb12-0000tw-00-00054	Malaysia	https://en.wikipedia.org/wiki/Malaysia
+clueweb12-0000tw-00-00054	Indonesia	https://en.wikipedia.org/wiki/Indonesia
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00054	Singapore	https://en.wikipedia.org/wiki/Singapore_(South_Africa)
+clueweb12-0000tw-00-00054	Greyson	https://en.wikipedia.org/wiki/Greyson
+clueweb12-0000tw-00-00054	John Lennon	https://en.wikipedia.org/wiki/John_Lennon
+clueweb12-0000tw-00-00054	Fox	https://en.wikipedia.org/wiki/Fox_(comics)
+clueweb12-0000tw-00-00054	Raising Hope	https://en.wikipedia.org/wiki/Raising_Hope
+clueweb12-0000tw-00-00054	Greyson	https://en.wikipedia.org/wiki/Greyson
+clueweb12-0000tw-00-00054	Elton John	https://en.wikipedia.org/wiki/Elton_John_(footballer)
+clueweb12-0000tw-00-00054	Christina Aguilera	https://en.wikipedia.org/wiki/Christina_Aguilera_(album)
+clueweb12-0000tw-00-00054	Lady Gaga	https://en.wikipedia.org/wiki/Lady_Gaga
+clueweb12-0000tw-00-00054	Hayley Williams	https://en.wikipedia.org/wiki/Hayley_Williams
+clueweb12-0000tw-00-00054	Greyson	https://en.wikipedia.org/wiki/Greyson
+clueweb12-0000tw-00-00054	Greyson Chance	https://en.wikipedia.org/wiki/Greyson_Chance
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00054	Tata	https://en.wikipedia.org/wiki/Tata,_Morocco
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00054	dan	https://en.wikipedia.org/wiki/Dan_(rank)
+clueweb12-0000tw-00-00054	Akan	https://en.wikipedia.org/wiki/Akan_language
+clueweb12-0000tw-00-00054	Satu	https://en.wikipedia.org/wiki/Satu
+clueweb12-0000tw-00-00054	Pembeli	https://en.wikipedia.org/wiki/Pembeli,_G%C3%B6yn%C3%BCcek
+clueweb12-0000tw-00-00054	dan	https://en.wikipedia.org/wiki/Dan_(rank)
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00054	Anda	https://en.wikipedia.org/wiki/Anda,_Norway
+clueweb12-0000tw-00-00054	Anda	https://en.wikipedia.org/wiki/Anda,_Norway
+clueweb12-0000tw-00-00054	Klik	https://en.wikipedia.org/wiki/Klik_(candy)
+clueweb12-0000tw-00-00054	Bila	https://en.wikipedia.org/wiki/Bila_(sun)
+clueweb12-0000tw-00-00054	Anda	https://en.wikipedia.org/wiki/Anda,_Heilongjiang
+clueweb12-0000tw-00-00054	Bila	https://en.wikipedia.org/wiki/Bila,_Livno
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00054	Manggarai	https://en.wikipedia.org/wiki/Manggarai,_Tebet
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00054	Surabaya	https://en.wikipedia.org/wiki/Surabaya
+clueweb12-0000tw-00-00054	Manggarai	https://en.wikipedia.org/wiki/Manggarai_Regency
+clueweb12-0000tw-00-00054	Jakarta	https://en.wikipedia.org/wiki/Jakarta
+clueweb12-0000tw-00-00056	Austin	https://en.wikipedia.org/wiki/Austin,_Western_Australia
+clueweb12-0000tw-00-00056	London	https://en.wikipedia.org/wiki/London,_California
+clueweb12-0000tw-00-00056	Chicago	https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)
+clueweb12-0000tw-00-00056	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles
+clueweb12-0000tw-00-00056	San Francisco	https://en.wikipedia.org/wiki/San_Francisco_(Tor_Endresen_song)
+clueweb12-0000tw-00-00056	Washington	https://en.wikipedia.org/wiki/Washington,_West_Sussex
+clueweb12-0000tw-00-00056	Shanghai	https://en.wikipedia.org/wiki/Shanghai_(film_series)
+clueweb12-0000tw-00-00056	Toronto	https://en.wikipedia.org/wiki/Toronto
+clueweb12-0000tw-00-00056	Karen Handel	https://en.wikipedia.org/wiki/Karen_Handel
+clueweb12-0000tw-00-00056	South Africa	https://en.wikipedia.org/wiki/South_Africa
+clueweb12-0000tw-00-00056	MSNBC	https://en.wikipedia.org/wiki/MSNBC
+clueweb12-0000tw-00-00056	Spencer	https://en.wikipedia.org/wiki/Spencer_(town),_Wisconsin
+clueweb12-0000tw-00-00056	Spencer	https://en.wikipedia.org/wiki/Spencer_(town),_Wisconsin
+clueweb12-0000tw-00-00056	South Africa	https://en.wikipedia.org/wiki/South_Africa
+clueweb12-0000tw-00-00056	Hern	https://en.wikipedia.org/wiki/Hern
+clueweb12-0000tw-00-00056	Tokyo	https://en.wikipedia.org/wiki/Tokyo_(place_name)
+clueweb12-0000tw-00-00056	Ron Paul	https://en.wikipedia.org/wiki/Ron_Paul
+clueweb12-0000tw-00-00056	Ill	https://en.wikipedia.org/wiki/Ill_(France)
+clueweb12-0000tw-00-00056	Spencer	https://en.wikipedia.org/wiki/Spencer_(town),_Wisconsin
+clueweb12-0000tw-00-00056	Rhino	https://en.wikipedia.org/wiki/Rhino_(character)
+clueweb12-0000tw-00-00056	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00056	Rhino	https://en.wikipedia.org/wiki/Rhino_(character)
+clueweb12-0000tw-00-00056	MSNBC	https://en.wikipedia.org/wiki/MSNBC
+clueweb12-0000tw-00-00056	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00056	RSS	https://en.wikipedia.org/wiki/RSS
+clueweb12-0000tw-00-00056	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00057	Yankees	https://en.wikipedia.org/wiki/Yankees_(album)
+clueweb12-0000tw-00-00057	Austin	https://en.wikipedia.org/wiki/Austin,_Western_Australia
+clueweb12-0000tw-00-00057	London	https://en.wikipedia.org/wiki/London,_California
+clueweb12-0000tw-00-00057	Chicago	https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)
+clueweb12-0000tw-00-00057	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles
+clueweb12-0000tw-00-00057	San Francisco	https://en.wikipedia.org/wiki/San_Francisco_(Tor_Endresen_song)
+clueweb12-0000tw-00-00057	Washington	https://en.wikipedia.org/wiki/Washington,_West_Sussex
+clueweb12-0000tw-00-00057	Shanghai	https://en.wikipedia.org/wiki/Shanghai_(film_series)
+clueweb12-0000tw-00-00057	Toronto	https://en.wikipedia.org/wiki/Toronto
+clueweb12-0000tw-00-00057	Karen Handel	https://en.wikipedia.org/wiki/Karen_Handel
+clueweb12-0000tw-00-00057	Yankees	https://en.wikipedia.org/wiki/Yankees_(album)
+clueweb12-0000tw-00-00057	Cashman	https://en.wikipedia.org/wiki/Cashman
+clueweb12-0000tw-00-00057	Brian Cashman	https://en.wikipedia.org/wiki/Brian_Cashman
+clueweb12-0000tw-00-00057	Yankees	https://en.wikipedia.org/wiki/Yankees_(album)
+clueweb12-0000tw-00-00057	Cashman	https://en.wikipedia.org/wiki/Cashman
+clueweb12-0000tw-00-00057	Yankees	https://en.wikipedia.org/wiki/Yankees_(album)
+clueweb12-0000tw-00-00057	Meanwell	https://en.wikipedia.org/wiki/Meanwell
+clueweb12-0000tw-00-00057	Giglio	https://en.wikipedia.org/wiki/Isola_del_Giglio
+clueweb12-0000tw-00-00057	Brian Jacob	https://en.wikipedia.org/wiki/Brian_Jacob
+clueweb12-0000tw-00-00057	FBI	https://en.wikipedia.org/wiki/FBI_(franchise)
+clueweb12-0000tw-00-00057	New York	https://en.wikipedia.org/wiki/New_York_(Angel_Haze_song)
+clueweb12-0000tw-00-00057	Cashman	https://en.wikipedia.org/wiki/Cashman
+clueweb12-0000tw-00-00057	British	https://en.wikipedia.org/wiki/British
+clueweb12-0000tw-00-00057	Cashman	https://en.wikipedia.org/wiki/Cashman
+clueweb12-0000tw-00-00057	Manhattan	https://en.wikipedia.org/wiki/Manhattan_(cocktail)
+clueweb12-0000tw-00-00057	Post	https://en.wikipedia.org/wiki/Post,_Oregon
+clueweb12-0000tw-00-00057	Cashman	https://en.wikipedia.org/wiki/Cashman
+clueweb12-0000tw-00-00057	Sano	https://en.wikipedia.org/wiki/Sano,_Tochigi
+clueweb12-0000tw-00-00057	Post	https://en.wikipedia.org/wiki/Post,_Oregon
+clueweb12-0000tw-00-00057	Christian	https://en.wikipedia.org/wiki/Christians
+clueweb12-0000tw-00-00057	Louise	https://en.wikipedia.org/wiki/Rural_Municipality_of_Louise
+clueweb12-0000tw-00-00057	Sano	https://en.wikipedia.org/wiki/Sano,_Kentucky
+clueweb12-0000tw-00-00057	Fatal Attraction	https://en.wikipedia.org/wiki/Fatal_Attraction_(upcoming_TV_series)
+clueweb12-0000tw-00-00057	Jimmy Hoffa	https://en.wikipedia.org/wiki/Jimmy_Hoffa
+clueweb12-0000tw-00-00057	Yankees	https://en.wikipedia.org/wiki/Yankees_(album)
+clueweb12-0000tw-00-00057	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00057	RSS	https://en.wikipedia.org/wiki/RSS
+clueweb12-0000tw-00-00057	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00058	Italian	https://en.wikipedia.org/wiki/Italian_language
+clueweb12-0000tw-00-00058	Austin	https://en.wikipedia.org/wiki/Austin,_Western_Australia
+clueweb12-0000tw-00-00058	London	https://en.wikipedia.org/wiki/London,_California
+clueweb12-0000tw-00-00058	Chicago	https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)
+clueweb12-0000tw-00-00058	Washington	https://en.wikipedia.org/wiki/Washington,_West_Sussex
+clueweb12-0000tw-00-00058	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles,_La_Salle_County,_Texas
+clueweb12-0000tw-00-00058	Toronto	https://en.wikipedia.org/wiki/Toronto
+clueweb12-0000tw-00-00058	Shanghai	https://en.wikipedia.org/wiki/Shanghai_(film_series)
+clueweb12-0000tw-00-00058	Karen Handel	https://en.wikipedia.org/wiki/Karen_Handel
+clueweb12-0000tw-00-00058	Italian	https://en.wikipedia.org/wiki/Italian_language
+clueweb12-0000tw-00-00058	Sauce	https://en.wikipedia.org/wiki/Sauce,_Corrientes
+clueweb12-0000tw-00-00058	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00058	Caputo	https://en.wikipedia.org/wiki/Caputo
+clueweb12-0000tw-00-00058	cavatelli	https://en.wikipedia.org/wiki/Cavatelli
+clueweb12-0000tw-00-00058	Italian	https://en.wikipedia.org/wiki/Italian_language
+clueweb12-0000tw-00-00058	Albany	https://en.wikipedia.org/wiki/Albany,_Georgia
+clueweb12-0000tw-00-00058	LIC	https://en.wikipedia.org/wiki/LIC
+clueweb12-0000tw-00-00058	Sauce	https://en.wikipedia.org/wiki/Sauce,_Corrientes
+clueweb12-0000tw-00-00058	New York	https://en.wikipedia.org/wiki/New_York_(1836_steamboat)
+clueweb12-0000tw-00-00058	Breakfast	https://en.wikipedia.org/wiki/Breakfast_(Associates_song)
+clueweb12-0000tw-00-00058	Rivington Street	https://en.wikipedia.org/wiki/Rivington_Street
+clueweb12-0000tw-00-00058	Food	https://en.wikipedia.org/wiki/Food_(film)
+clueweb12-0000tw-00-00058	Christopher Robbins	https://en.wikipedia.org/wiki/Christopher_Robbins_(artist)
+clueweb12-0000tw-00-00058	Frank	https://en.wikipedia.org/wiki/Frank,_North_Carolina
+clueweb12-0000tw-00-00058	Sauce	https://en.wikipedia.org/wiki/Sauce,_Corrientes
+clueweb12-0000tw-00-00058	Ill	https://en.wikipedia.org/wiki/Ill_(France)
+clueweb12-0000tw-00-00058	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00058	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00058	RSS	https://en.wikipedia.org/wiki/RSS
+clueweb12-0000tw-00-00059	NYC	https://en.wikipedia.org/wiki/NYC_(There%27s_No_Need_to_Stop)
+clueweb12-0000tw-00-00059	Austin	https://en.wikipedia.org/wiki/Austin,_Western_Australia
+clueweb12-0000tw-00-00059	London	https://en.wikipedia.org/wiki/London,_California
+clueweb12-0000tw-00-00059	Chicago	https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)
+clueweb12-0000tw-00-00059	Karen Handel	https://en.wikipedia.org/wiki/Karen_Handel
+clueweb12-0000tw-00-00059	Washington	https://en.wikipedia.org/wiki/Washington,_West_Sussex
+clueweb12-0000tw-00-00059	NYC	https://en.wikipedia.org/wiki/Say_Hello_to_the_Angels_/_NYC
+clueweb12-0000tw-00-00059	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles,_La_Salle_County,_Texas
+clueweb12-0000tw-00-00059	Toronto	https://en.wikipedia.org/wiki/Toronto
+clueweb12-0000tw-00-00059	Shanghai	https://en.wikipedia.org/wiki/Shanghai_(film_series)
+clueweb12-0000tw-00-00059	Gracie Mansion	https://en.wikipedia.org/wiki/Gracie_Mansion
+clueweb12-0000tw-00-00059	Brighton Beach	https://en.wikipedia.org/wiki/Brighton_Beach
+clueweb12-0000tw-00-00059	Inwood	https://en.wikipedia.org/wiki/Inwood_station_(LIRR)
+clueweb12-0000tw-00-00059	American	https://en.wikipedia.org/wiki/American_(word)
+clueweb12-0000tw-00-00059	Facebook	https://en.wikipedia.org/wiki/Facebook
+clueweb12-0000tw-00-00059	New England	https://en.wikipedia.org/wiki/Electoral_district_of_New_England
+clueweb12-0000tw-00-00059	Andre	https://en.wikipedia.org/wiki/Andre_(film)
+clueweb12-0000tw-00-00059	New York	https://en.wikipedia.org/wiki/New_York_(state)
+clueweb12-0000tw-00-00059	Staten Island	https://en.wikipedia.org/wiki/Staten_Island
+clueweb12-0000tw-00-00059	Rockaway	https://en.wikipedia.org/wiki/Rockaway,_New_Jersey
+clueweb12-0000tw-00-00059	Nicky	https://en.wikipedia.org/wiki/Nicky_(disambiguation)
+clueweb12-0000tw-00-00059	Brooklyn	https://en.wikipedia.org/wiki/Brooklyn,_Fayette_County,_West_Virginia
+clueweb12-0000tw-00-00059	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00059	Bartender	https://en.wikipedia.org/wiki/Bartender_(Dave_Matthews_Band_song)
+clueweb12-0000tw-00-00059	Canadian Club	https://en.wikipedia.org/wiki/Canadian_Club
+clueweb12-0000tw-00-00059	RSS	https://en.wikipedia.org/wiki/RSS
+clueweb12-0000tw-00-00059	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00060	Austin	https://en.wikipedia.org/wiki/Austin,_Western_Australia
+clueweb12-0000tw-00-00060	London	https://en.wikipedia.org/wiki/London,_California
+clueweb12-0000tw-00-00060	Chicago	https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)
+clueweb12-0000tw-00-00060	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles,_La_Salle_County,_Texas
+clueweb12-0000tw-00-00060	San Francisco	https://en.wikipedia.org/wiki/San_Francisco_(Tor_Endresen_song)
+clueweb12-0000tw-00-00060	New York	https://en.wikipedia.org/wiki/New_York,_Texas
+clueweb12-0000tw-00-00060	Shanghai	https://en.wikipedia.org/wiki/Shanghai_(Dant%C3%A8s_Dailiang_song)
+clueweb12-0000tw-00-00060	Toronto	https://en.wikipedia.org/wiki/Toronto,_Kansas
+clueweb12-0000tw-00-00060	Karen Handel	https://en.wikipedia.org/wiki/Karen_Handel
+clueweb12-0000tw-00-00060	Ray Kelly	https://en.wikipedia.org/wiki/Gunner_Kelly
+clueweb12-0000tw-00-00060	New York	https://en.wikipedia.org/wiki/New_York_(Angel_Haze_song)
+clueweb12-0000tw-00-00060	Greg Kelly	https://en.wikipedia.org/wiki/Greg_Kelly
+clueweb12-0000tw-00-00060	NYPD	https://en.wikipedia.org/wiki/NYPD_(disambiguation)
+clueweb12-0000tw-00-00060	Rosanna Scotto	https://en.wikipedia.org/wiki/Rosanna_Scotto
+clueweb12-0000tw-00-00060	Marine	https://en.wikipedia.org/wiki/Marine,_West_Virginia
+clueweb12-0000tw-00-00060	New York	https://en.wikipedia.org/wiki/New_York_(World_Series_of_Football)
+clueweb12-0000tw-00-00060	Scotto	https://en.wikipedia.org/wiki/Scotto_(troubadour)
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Rosanna	https://en.wikipedia.org/wiki/Rosanna_railway_station
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Rosanna Scotto	https://en.wikipedia.org/wiki/Rosanna_Scotto
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Scotto	https://en.wikipedia.org/wiki/Scotto_(troubadour)
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Greg Kelly	https://en.wikipedia.org/wiki/Greg_Kelly
+clueweb12-0000tw-00-00060	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Bloomberg	https://en.wikipedia.org/wiki/Bloomberg
+clueweb12-0000tw-00-00060	Ray Kelly	https://en.wikipedia.org/wiki/Gunner_Kelly
+clueweb12-0000tw-00-00060	Bloomberg	https://en.wikipedia.org/wiki/Bloomberg
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Greg Kelly	https://en.wikipedia.org/wiki/Greg_Kelly
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Michael	https://en.wikipedia.org/wiki/Michael_(Nikita_character)
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Woke	https://en.wikipedia.org/wiki/Woke
+clueweb12-0000tw-00-00060	Bronson Pinchot	https://en.wikipedia.org/wiki/Bronson_Pinchot
+clueweb12-0000tw-00-00060	Greg Kelly	https://en.wikipedia.org/wiki/Greg_Kelly
+clueweb12-0000tw-00-00060	Greg	https://en.wikipedia.org/wiki/Greg
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Rosanna Scotto	https://en.wikipedia.org/wiki/Rosanna_Scotto
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Scotto	https://en.wikipedia.org/wiki/Scotto_(troubadour)
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Greg Kelly	https://en.wikipedia.org/wiki/Greg_Kelly
+clueweb12-0000tw-00-00060	Greg Kelly	https://en.wikipedia.org/wiki/Greg_Kelly
+clueweb12-0000tw-00-00060	Bloomberg	https://en.wikipedia.org/wiki/Bloomberg
+clueweb12-0000tw-00-00060	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00060	Linda Fairstein	https://en.wikipedia.org/wiki/Linda_Fairstein
+clueweb12-0000tw-00-00060	Greg Kelly	https://en.wikipedia.org/wiki/Greg_Kelly
+clueweb12-0000tw-00-00060	NYPD	https://en.wikipedia.org/wiki/NYPD_(disambiguation)
+clueweb12-0000tw-00-00060	NYPD	https://en.wikipedia.org/wiki/NYPD_(disambiguation)
+clueweb12-0000tw-00-00060	NYPD	https://en.wikipedia.org/wiki/NYPD_(disambiguation)
+clueweb12-0000tw-00-00060	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00060	RSS	https://en.wikipedia.org/wiki/RSS
+clueweb12-0000tw-00-00061	Indian	https://en.wikipedia.org/wiki/Indian_(1810_ship)
+clueweb12-0000tw-00-00061	Georgia	https://en.wikipedia.org/wiki/Georgia,_Nebraska
+clueweb12-0000tw-00-00061	Austin	https://en.wikipedia.org/wiki/Austin,_Western_Australia
+clueweb12-0000tw-00-00061	London	https://en.wikipedia.org/wiki/London,_California
+clueweb12-0000tw-00-00061	Chicago	https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)
+clueweb12-0000tw-00-00061	Karen Handel	https://en.wikipedia.org/wiki/Karen_Handel
+clueweb12-0000tw-00-00061	Washington	https://en.wikipedia.org/wiki/Washington,_West_Sussex
+clueweb12-0000tw-00-00061	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles,_La_Salle_County,_Texas
+clueweb12-0000tw-00-00061	Toronto	https://en.wikipedia.org/wiki/Toronto
+clueweb12-0000tw-00-00061	Shanghai	https://en.wikipedia.org/wiki/Shanghai_(film_series)
+clueweb12-0000tw-00-00061	Georgia	https://en.wikipedia.org/wiki/Georgia,_Nebraska
+clueweb12-0000tw-00-00061	Augusta	https://en.wikipedia.org/wiki/Augusta,_New_Jersey
+clueweb12-0000tw-00-00061	Georgia	https://en.wikipedia.org/wiki/Georgia,_Nebraska
+clueweb12-0000tw-00-00061	Indian Point	https://en.wikipedia.org/wiki/Indian_Point,_Missouri
+clueweb12-0000tw-00-00061	Indian Point	https://en.wikipedia.org/wiki/Indian_Point,_Nova_Scotia
+clueweb12-0000tw-00-00061	Cuomo	https://en.wikipedia.org/wiki/Cuomo_(disambiguation)
+clueweb12-0000tw-00-00061	Japan	https://en.wikipedia.org/wiki/Japan,_Missouri
+clueweb12-0000tw-00-00061	Indian Point	https://en.wikipedia.org/wiki/Indian_Point,_Nova_Scotia
+clueweb12-0000tw-00-00061	Indian Point	https://en.wikipedia.org/wiki/Indian_Point,_Nova_Scotia
+clueweb12-0000tw-00-00061	Georgia	https://en.wikipedia.org/wiki/Georgia,_Nebraska
+clueweb12-0000tw-00-00061	Allison Fisher	https://en.wikipedia.org/wiki/Allison_Fisher
+clueweb12-0000tw-00-00061	Public Citizen	https://en.wikipedia.org/wiki/Public_Citizen
+clueweb12-0000tw-00-00061	Georgia	https://en.wikipedia.org/wiki/Georgia,_Nebraska
+clueweb12-0000tw-00-00061	Fisher	https://en.wikipedia.org/wiki/Electoral_district_of_Fisher
+clueweb12-0000tw-00-00061	Indian Point	https://en.wikipedia.org/wiki/Indian_Point,_Missouri
+clueweb12-0000tw-00-00061	NYC	https://en.wikipedia.org/wiki/NYC_(There%27s_No_Need_to_Stop)
+clueweb12-0000tw-00-00061	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00061	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00061	RSS	https://en.wikipedia.org/wiki/RSS
+clueweb12-0000tw-00-00062	Austin	https://en.wikipedia.org/wiki/Austin,_Western_Australia
+clueweb12-0000tw-00-00062	London	https://en.wikipedia.org/wiki/London,_California
+clueweb12-0000tw-00-00062	Chicago	https://en.wikipedia.org/wiki/Chicago_station_(CTA_Blue_Line)
+clueweb12-0000tw-00-00062	Washington	https://en.wikipedia.org/wiki/Washington,_West_Sussex
+clueweb12-0000tw-00-00062	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles,_La_Salle_County,_Texas
+clueweb12-0000tw-00-00062	Toronto	https://en.wikipedia.org/wiki/Toronto
+clueweb12-0000tw-00-00062	Shanghai	https://en.wikipedia.org/wiki/Shanghai_(film_series)
+clueweb12-0000tw-00-00062	Karen Handel	https://en.wikipedia.org/wiki/Karen_Handel
+clueweb12-0000tw-00-00062	Times	https://en.wikipedia.org/wiki/Times_(TV_series)
+clueweb12-0000tw-00-00062	Cathie Black	https://en.wikipedia.org/wiki/Cathie_Black
+clueweb12-0000tw-00-00062	Walcott	https://en.wikipedia.org/wiki/Walcott,_Arkansas
+clueweb12-0000tw-00-00062	NYPD	https://en.wikipedia.org/wiki/NYPD_(disambiguation)
+clueweb12-0000tw-00-00062	Walcott	https://en.wikipedia.org/wiki/Walcott,_Norfolk
+clueweb12-0000tw-00-00062	PEP	https://en.wikipedia.org/wiki/PEP
+clueweb12-0000tw-00-00062	Panel	https://en.wikipedia.org/wiki/Panel
+clueweb12-0000tw-00-00062	Bloomberg	https://en.wikipedia.org/wiki/Bloomberg
+clueweb12-0000tw-00-00062	Occupy	https://en.wikipedia.org/wiki/Occupy_(book)
+clueweb12-0000tw-00-00062	NYC	https://en.wikipedia.org/wiki/Say_Hello_to_the_Angels_/_NYC
+clueweb12-0000tw-00-00062	NYC	https://en.wikipedia.org/wiki/Say_Hello_to_the_Angels_/_NYC
+clueweb12-0000tw-00-00062	Walcott	https://en.wikipedia.org/wiki/Walcott,_Arkansas
+clueweb12-0000tw-00-00062	Harriet	https://en.wikipedia.org/wiki/Harriet,_Arkansas
+clueweb12-0000tw-00-00062	Teachers Union	https://en.wikipedia.org/wiki/Teachers_Union
+clueweb12-0000tw-00-00062	Shelly	https://en.wikipedia.org/wiki/Shelly,_Minnesota
+clueweb12-0000tw-00-00062	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00062	Gothamist	https://en.wikipedia.org/wiki/Gothamist
+clueweb12-0000tw-00-00062	RSS	https://en.wikipedia.org/wiki/RSS
+clueweb12-0000tw-00-00063	Journey	https://en.wikipedia.org/wiki/Journey_(1995_film)
+clueweb12-0000tw-00-00063	Journey	https://en.wikipedia.org/wiki/Journey_(1995_film)
+clueweb12-0000tw-00-00063	Jerusalem	https://en.wikipedia.org/wiki/Jerusalem_(Moore_novel)
+clueweb12-0000tw-00-00063	Roman	https://en.wikipedia.org/wiki/Roman_(film)
+clueweb12-0000tw-00-00063	Levi	https://en.wikipedia.org/wiki/Levi,_Estonia
+clueweb12-0000tw-00-00063	Roman	https://en.wikipedia.org/wiki/Roman_(film)
+clueweb12-0000tw-00-00063	Rome	https://en.wikipedia.org/wiki/Rome,_Alabama
+clueweb12-0000tw-00-00063	Levi	https://en.wikipedia.org/wiki/Levi,_Finland
+clueweb12-0000tw-00-00063	Roman	https://en.wikipedia.org/wiki/Roman_(film)
+clueweb12-0000tw-00-00063	Levi	https://en.wikipedia.org/wiki/Levi,_Finland
+clueweb12-0000tw-00-00063	Romans	https://en.wikipedia.org/wiki/Roman_people
+clueweb12-0000tw-00-00063	Roman	https://en.wikipedia.org/wiki/Roman_(film)
+clueweb12-0000tw-00-00063	Levi	https://en.wikipedia.org/wiki/Levi,_Finland
+clueweb12-0000tw-00-00063	Diana	https://en.wikipedia.org/wiki/Diana_Walter
+clueweb12-0000tw-00-00063	Ed McMahon	https://en.wikipedia.org/wiki/Ed_McMahon
+clueweb12-0000tw-00-00063	Richard	https://en.wikipedia.org/wiki/Richard_(first_abbot_of_Fountains)
+clueweb12-0000tw-00-00063	Journey	https://en.wikipedia.org/wiki/Journey_(1995_film)
+clueweb12-0000tw-00-00063	Harry Freedman	https://en.wikipedia.org/wiki/Harry_Freedman
+clueweb12-0000tw-00-00063	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00063	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00063	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00063	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00063	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00064	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00064	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00064	Emma	https://en.wikipedia.org/wiki/Emma,_Louisiana
+clueweb12-0000tw-00-00064	Evan	https://en.wikipedia.org/wiki/Evan,_Minnesota
+clueweb12-0000tw-00-00064	Richards	https://en.wikipedia.org/wiki/Richards,_Missouri
+clueweb12-0000tw-00-00064	Barb	https://en.wikipedia.org/wiki/Barb
+clueweb12-0000tw-00-00064	New York	https://en.wikipedia.org/wiki/New_York,_Kentucky
+clueweb12-0000tw-00-00064	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00064	Richards	https://en.wikipedia.org/wiki/Richards,_Missouri
+clueweb12-0000tw-00-00064	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00064	Canada	https://en.wikipedia.org/wiki/Canada,_Kansas
+clueweb12-0000tw-00-00064	Mary Duff	https://en.wikipedia.org/wiki/Mary_Duff
+clueweb12-0000tw-00-00064	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00064	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00064	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00064	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00064	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00064	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00065	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00065	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00065	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00065	Elmore Leonard	https://en.wikipedia.org/wiki/Elmore_Leonard
+clueweb12-0000tw-00-00065	Roger Smith	https://en.wikipedia.org/wiki/Roger_Smith_(footballer,_born_1944)
+clueweb12-0000tw-00-00065	Florida Times-Union	https://en.wikipedia.org/wiki/The_Florida_Times-Union
+clueweb12-0000tw-00-00065	Richmond	https://en.wikipedia.org/wiki/Richmond,_Rhode_Island
+clueweb12-0000tw-00-00065	Liz	https://en.wikipedia.org/wiki/Liz_(surname)
+clueweb12-0000tw-00-00065	John Williams	https://en.wikipedia.org/wiki/John_Williams_(Continental_Congress)
+clueweb12-0000tw-00-00065	John	https://en.wikipedia.org/wiki/John_(Archdeacon_of_Barnstaple)
+clueweb12-0000tw-00-00065	Liz	https://en.wikipedia.org/wiki/Liz_(disambiguation)
+clueweb12-0000tw-00-00065	John	https://en.wikipedia.org/wiki/John_(Archdeacon_of_Barnstaple)
+clueweb12-0000tw-00-00065	Midwest	https://en.wikipedia.org/wiki/Midwest,_Wyoming
+clueweb12-0000tw-00-00065	India	https://en.wikipedia.org/wiki/India,_Texas
+clueweb12-0000tw-00-00065	Alex	https://en.wikipedia.org/wiki/Alex_(footballer,_born_1976)
+clueweb12-0000tw-00-00065	Almond Joy	https://en.wikipedia.org/wiki/Almond_Joy
+clueweb12-0000tw-00-00065	Alex	https://en.wikipedia.org/wiki/Alex,_Haute-Savoie
+clueweb12-0000tw-00-00065	Alex	https://en.wikipedia.org/wiki/Alex_(comic_strip)
+clueweb12-0000tw-00-00065	Alex	https://en.wikipedia.org/wiki/Alex_(A_Clockwork_Orange)
+clueweb12-0000tw-00-00065	Rebecca	https://en.wikipedia.org/wiki/Rebecca,_Georgia
+clueweb12-0000tw-00-00065	Rebecca	https://en.wikipedia.org/wiki/Rebecca,_Georgia
+clueweb12-0000tw-00-00065	Rebecca	https://en.wikipedia.org/wiki/Rebecca,_Georgia
+clueweb12-0000tw-00-00065	Jerry	https://en.wikipedia.org/wiki/Jerry_Mouse
+clueweb12-0000tw-00-00065	Jerry	https://en.wikipedia.org/wiki/Jerry_Mouse
+clueweb12-0000tw-00-00065	Jerry	https://en.wikipedia.org/wiki/Jerry_Mouse
+clueweb12-0000tw-00-00065	Rebecca	https://en.wikipedia.org/wiki/Rebecca,_Georgia
+clueweb12-0000tw-00-00065	Cappuccino	https://en.wikipedia.org/wiki/Cappuccino_(song)
+clueweb12-0000tw-00-00065	Jessica	https://en.wikipedia.org/wiki/Jessica_(The_Merchant_of_Venice)
+clueweb12-0000tw-00-00065	Jessica	https://en.wikipedia.org/wiki/Jessika_(opera)
+clueweb12-0000tw-00-00065	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00065	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00065	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00065	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00065	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00066	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00066	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00066	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00066	Midwest	https://en.wikipedia.org/wiki/Midwest,_Wyoming
+clueweb12-0000tw-00-00066	India	https://en.wikipedia.org/wiki/India,_Texas
+clueweb12-0000tw-00-00066	Alex	https://en.wikipedia.org/wiki/Alex_(footballer,_born_1976)
+clueweb12-0000tw-00-00066	Almond Joy	https://en.wikipedia.org/wiki/Almond_Joy
+clueweb12-0000tw-00-00066	Alex	https://en.wikipedia.org/wiki/Alex,_Haute-Savoie
+clueweb12-0000tw-00-00066	Alex	https://en.wikipedia.org/wiki/Alex_(comic_strip)
+clueweb12-0000tw-00-00066	Alex	https://en.wikipedia.org/wiki/Alex_(A_Clockwork_Orange)
+clueweb12-0000tw-00-00066	Rebecca	https://en.wikipedia.org/wiki/Rebecca,_Georgia
+clueweb12-0000tw-00-00066	Rebecca	https://en.wikipedia.org/wiki/Rebecca,_Georgia
+clueweb12-0000tw-00-00066	Rebecca	https://en.wikipedia.org/wiki/Rebecca,_Georgia
+clueweb12-0000tw-00-00066	Jerry	https://en.wikipedia.org/wiki/Jerry_Mouse
+clueweb12-0000tw-00-00066	Jerry	https://en.wikipedia.org/wiki/Jerry_Mouse
+clueweb12-0000tw-00-00066	Jerry	https://en.wikipedia.org/wiki/Jerry_Mouse
+clueweb12-0000tw-00-00066	Rebecca	https://en.wikipedia.org/wiki/Rebecca,_Georgia
+clueweb12-0000tw-00-00066	Cappuccino	https://en.wikipedia.org/wiki/Cappuccino_(song)
+clueweb12-0000tw-00-00066	Jessica	https://en.wikipedia.org/wiki/Jessica_(The_Merchant_of_Venice)
+clueweb12-0000tw-00-00066	Jessica	https://en.wikipedia.org/wiki/Jessika_(opera)
+clueweb12-0000tw-00-00066	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00066	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00066	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00066	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00066	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00067	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00067	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00067	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00067	Scott Nicholson	https://en.wikipedia.org/wiki/Scott_Nicholson
+clueweb12-0000tw-00-00067	Lauren James	https://en.wikipedia.org/wiki/Lauren_James
+clueweb12-0000tw-00-00067	Mensa	https://en.wikipedia.org/wiki/Mensa_(constellation)
+clueweb12-0000tw-00-00067	Lauren	https://en.wikipedia.org/wiki/Lauren_(footballer)
+clueweb12-0000tw-00-00067	St. Croix	https://en.wikipedia.org/wiki/St._Croix,_Indiana
+clueweb12-0000tw-00-00067	Lauren	https://en.wikipedia.org/wiki/Lauren_(footballer)
+clueweb12-0000tw-00-00067	South Carolina	https://en.wikipedia.org/wiki/South_Carolina
+clueweb12-0000tw-00-00067	Adam Chase	https://en.wikipedia.org/wiki/Adam_Chase_(writer)
+clueweb12-0000tw-00-00067	Richmond	https://en.wikipedia.org/wiki/Richmond,_Rhode_Island
+clueweb12-0000tw-00-00067	Charlie	https://en.wikipedia.org/wiki/Charlie_Nash_(Street_Fighter)
+clueweb12-0000tw-00-00067	Adam	https://en.wikipedia.org/wiki/Adam,_West_Virginia
+clueweb12-0000tw-00-00067	Adam Chase	https://en.wikipedia.org/wiki/Adam_Chase_(writer)
+clueweb12-0000tw-00-00067	Cancel	https://en.wikipedia.org/wiki/Cancel
+clueweb12-0000tw-00-00067	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00067	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00067	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00067	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00069	Craft	https://en.wikipedia.org/wiki/Craft,_Texas
+clueweb12-0000tw-00-00069	Daniel Jones	https://en.wikipedia.org/wiki/Daniel_Jones_(musician)
+clueweb12-0000tw-00-00069	Yola	https://en.wikipedia.org/wiki/Yola_(beetle)
+clueweb12-0000tw-00-00069	Yola	https://en.wikipedia.org/wiki/Yola
+clueweb12-0000tw-00-00070	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00070	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00070	Darkness	https://en.wikipedia.org/wiki/Darkness_(short_story_collection)
+clueweb12-0000tw-00-00070	UK	https://en.wikipedia.org/wiki/U.K._(band)
+clueweb12-0000tw-00-00070	Adobe	https://en.wikipedia.org/wiki/Adobe_Inc.
+clueweb12-0000tw-00-00070	Netflix	https://en.wikipedia.org/wiki/Netflix
+clueweb12-0000tw-00-00070	UK	https://en.wikipedia.org/wiki/U.K._(band)
+clueweb12-0000tw-00-00070	Sefton Hill	https://en.wikipedia.org/wiki/Sefton_Hill
+clueweb12-0000tw-00-00070	UK	https://en.wikipedia.org/wiki/U.K._(band)
+clueweb12-0000tw-00-00070	US	https://en.wikipedia.org/wiki/US_(play)
+clueweb12-0000tw-00-00070	CVG	https://en.wikipedia.org/wiki/CVG
+clueweb12-0000tw-00-00070	Hill	https://en.wikipedia.org/wiki/Hill,_Wisconsin
+clueweb12-0000tw-00-00070	UK	https://en.wikipedia.org/wiki/U.K._(band)
+clueweb12-0000tw-00-00070	Hill	https://en.wikipedia.org/wiki/Hill,_Wisconsin
+clueweb12-0000tw-00-00070	Montreal	https://en.wikipedia.org/wiki/Montreal
+clueweb12-0000tw-00-00070	King Arthur	https://en.wikipedia.org/wiki/King_Arthur
+clueweb12-0000tw-00-00070	Ed	https://en.wikipedia.org/wiki/Ed_(supermarket)
+clueweb12-0000tw-00-00070	Team Ico	https://en.wikipedia.org/wiki/Team_Ico
+clueweb12-0000tw-00-00070	Colossus	https://en.wikipedia.org/wiki/Colossus_(Thorpe_Park)
+clueweb12-0000tw-00-00070	Sony	https://en.wikipedia.org/wiki/Sony
+clueweb12-0000tw-00-00070	Fumito Ueda	https://en.wikipedia.org/wiki/Fumito_Ueda
+clueweb12-0000tw-00-00070	Shuhei Yoshida	https://en.wikipedia.org/wiki/Shuhei_Yoshida
+clueweb12-0000tw-00-00070	1UP	https://en.wikipedia.org/wiki/1UP_(T-Pain_album)
+clueweb12-0000tw-00-00070	Sony	https://en.wikipedia.org/wiki/Sony
+clueweb12-0000tw-00-00070	Yoshida	https://en.wikipedia.org/wiki/Yoshida,_Saitama
+clueweb12-0000tw-00-00070	Ueda	https://en.wikipedia.org/wiki/Ueda
+clueweb12-0000tw-00-00070	Xbox	https://en.wikipedia.org/wiki/Xbox
+clueweb12-0000tw-00-00070	Ben Chapman	https://en.wikipedia.org/wiki/Ben_Chapman_(footballer,_born_1998)
+clueweb12-0000tw-00-00070	Xbox World	https://en.wikipedia.org/wiki/Xbox_World
+clueweb12-0000tw-00-00070	GameSpot	https://en.wikipedia.org/wiki/GameSpot
+clueweb12-0000tw-00-00070	Time	https://en.wikipedia.org/wiki/Time_(ELO_album)
+clueweb12-0000tw-00-00070	Juliet	https://en.wikipedia.org/wiki/Juliet
+clueweb12-0000tw-00-00070	Lollipop Chainsaw	https://en.wikipedia.org/wiki/Lollipop_Chainsaw
+clueweb12-0000tw-00-00070	Juliet	https://en.wikipedia.org/wiki/Juliet
+clueweb12-0000tw-00-00070	PAX	https://en.wikipedia.org/wiki/PAX_(event)
+clueweb12-0000tw-00-00070	Flipping Out	https://en.wikipedia.org/wiki/Flipping_Out_(film)
+clueweb12-0000tw-00-00070	James Quinn	https://en.wikipedia.org/wiki/James_Quinn_(bishop)
+clueweb12-0000tw-00-00070	Games	https://en.wikipedia.org/wiki/Games_(film)
+clueweb12-0000tw-00-00070	Amnesia	https://en.wikipedia.org/wiki/Amnesia_(Pousette-Dart_Band_album)
+clueweb12-0000tw-00-00070	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00070	Google Maps	https://en.wikipedia.org/wiki/Google_Maps
+clueweb12-0000tw-00-00070	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00070	Amnesia	https://en.wikipedia.org/wiki/Amnesia_(Pousette-Dart_Band_album)
+clueweb12-0000tw-00-00070	BioWare	https://en.wikipedia.org/wiki/BioWare
+clueweb12-0000tw-00-00070	BioWare	https://en.wikipedia.org/wiki/BioWare
+clueweb12-0000tw-00-00070	Xbox 360	https://en.wikipedia.org/wiki/Xbox_360
+clueweb12-0000tw-00-00070	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00070	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00070	Darkness	https://en.wikipedia.org/wiki/Darkness_(short_story_collection)
+clueweb12-0000tw-00-00070	Time	https://en.wikipedia.org/wiki/Time_(ELO_album)
+clueweb12-0000tw-00-00070	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00070	Alan Wake	https://en.wikipedia.org/wiki/Alan_Wake
+clueweb12-0000tw-00-00070	Develop	https://en.wikipedia.org/wiki/Develop_(Apple_magazine)
+clueweb12-0000tw-00-00070	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00070	Xbox	https://en.wikipedia.org/wiki/Xbox_(console)
+clueweb12-0000tw-00-00071	P.R.	https://en.wikipedia.org/wiki/P.R._(TV_series)
+clueweb12-0000tw-00-00071	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00071	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00071	Nook	https://en.wikipedia.org/wiki/Nook,_Pennsylvania
+clueweb12-0000tw-00-00071	Noble	https://en.wikipedia.org/wiki/Noble_(English_coin)
+clueweb12-0000tw-00-00071	iPad	https://en.wikipedia.org/wiki/IPad_(4th_generation)
+clueweb12-0000tw-00-00071	Kinde	https://en.wikipedia.org/wiki/Kinde,_Michigan
+clueweb12-0000tw-00-00071	iPad	https://en.wikipedia.org/wiki/IPad_(4th_generation)
+clueweb12-0000tw-00-00071	Thunderdome	https://en.wikipedia.org/wiki/Thunderdome_(music_festival)
+clueweb12-0000tw-00-00071	Blaster	https://en.wikipedia.org/wiki/Blaster_(Scott_Weiland_album)
+clueweb12-0000tw-00-00071	Microsoft	https://en.wikipedia.org/wiki/Microsoft
+clueweb12-0000tw-00-00071	Xbox	https://en.wikipedia.org/wiki/Xbox_(console)
+clueweb12-0000tw-00-00071	360s	https://en.wikipedia.org/wiki/360s
+clueweb12-0000tw-00-00071	Ebert	https://en.wikipedia.org/wiki/Ebert
+clueweb12-0000tw-00-00071	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00071	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00071	Darkness	https://en.wikipedia.org/wiki/Darkness_(short_story_collection)
+clueweb12-0000tw-00-00071	Time	https://en.wikipedia.org/wiki/Time_(ELO_album)
+clueweb12-0000tw-00-00071	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00071	Alan Wake	https://en.wikipedia.org/wiki/Alan_Wake
+clueweb12-0000tw-00-00071	Develop	https://en.wikipedia.org/wiki/Develop_(Apple_magazine)
+clueweb12-0000tw-00-00071	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00071	Xbox	https://en.wikipedia.org/wiki/Xbox_(console)
+clueweb12-0000tw-00-00072	Foodie	https://en.wikipedia.org/wiki/Foodie
+clueweb12-0000tw-00-00072	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00072	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00072	Darkness	https://en.wikipedia.org/wiki/Darkness_(short_story_collection)
+clueweb12-0000tw-00-00072	Time	https://en.wikipedia.org/wiki/Time_(ELO_album)
+clueweb12-0000tw-00-00072	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00072	Alan Wake	https://en.wikipedia.org/wiki/Alan_Wake
+clueweb12-0000tw-00-00072	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00072	Xbox	https://en.wikipedia.org/wiki/Xbox_(console)
+clueweb12-0000tw-00-00073	Catherine	https://en.wikipedia.org/wiki/Catherine_(Thackeray_novel)
+clueweb12-0000tw-00-00073	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00073	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00073	Catherine	https://en.wikipedia.org/wiki/Catherine_(Thackeray_novel)
+clueweb12-0000tw-00-00073	Catherine	https://en.wikipedia.org/wiki/Catherine_(Thackeray_novel)
+clueweb12-0000tw-00-00073	Katherine	https://en.wikipedia.org/wiki/Katherine,_Arizona
+clueweb12-0000tw-00-00073	Vincent	https://en.wikipedia.org/wiki/Vincent,_Iowa
+clueweb12-0000tw-00-00073	Daxter	https://en.wikipedia.org/wiki/Daxter
+clueweb12-0000tw-00-00073	GTA	https://en.wikipedia.org/wiki/GTA
+clueweb12-0000tw-00-00073	Jak	https://en.wikipedia.org/wiki/Jak_(Jak_and_Daxter)
+clueweb12-0000tw-00-00073	Burns	https://en.wikipedia.org/wiki/Burns,_Colorado
+clueweb12-0000tw-00-00073	Smithers	https://en.wikipedia.org/wiki/Smithers,_West_Virginia
+clueweb12-0000tw-00-00073	Maggie	https://en.wikipedia.org/wiki/Maggie,_West_Virginia
+clueweb12-0000tw-00-00073	Daxter	https://en.wikipedia.org/wiki/Daxter
+clueweb12-0000tw-00-00073	Marvel	https://en.wikipedia.org/wiki/Marvel_(footballer)
+clueweb12-0000tw-00-00073	Harry Potter	https://en.wikipedia.org/wiki/Harry_Potter
+clueweb12-0000tw-00-00073	PSP	https://en.wikipedia.org/wiki/PSP
+clueweb12-0000tw-00-00073	Alistair Overeem	https://en.wikipedia.org/wiki/Alistair_Overeem
+clueweb12-0000tw-00-00073	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00073	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00073	Darkness	https://en.wikipedia.org/wiki/Darkness_(short_story_collection)
+clueweb12-0000tw-00-00073	Time	https://en.wikipedia.org/wiki/Time_(ELO_album)
+clueweb12-0000tw-00-00073	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00073	Alan Wake	https://en.wikipedia.org/wiki/Alan_Wake
+clueweb12-0000tw-00-00073	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00073	Xbox	https://en.wikipedia.org/wiki/Xbox_(console)
+clueweb12-0000tw-00-00074	Valve	https://en.wikipedia.org/wiki/Valve_(disambiguation)
+clueweb12-0000tw-00-00074	DOTA	https://en.wikipedia.org/wiki/Dota_(disambiguation)
+clueweb12-0000tw-00-00074	Blizzard	https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)
+clueweb12-0000tw-00-00074	Blizzards	https://en.wikipedia.org/wiki/Blizzards_(album)
+clueweb12-0000tw-00-00074	RTS	https://en.wikipedia.org/wiki/RTS_(Ecuadorian_TV_channel)
+clueweb12-0000tw-00-00074	Valve	https://en.wikipedia.org/wiki/Valve_(disambiguation)
+clueweb12-0000tw-00-00074	Ancients	https://en.wikipedia.org/wiki/Ancients_(art_group)
+clueweb12-0000tw-00-00074	Blizzards	https://en.wikipedia.org/wiki/Blizzards_(album)
+clueweb12-0000tw-00-00074	Blizzard	https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)
+clueweb12-0000tw-00-00074	Starcraft	https://en.wikipedia.org/wiki/Starcraft_(horse)
+clueweb12-0000tw-00-00074	DOTA	https://en.wikipedia.org/wiki/Dota_(disambiguation)
+clueweb12-0000tw-00-00074	Battle.net	https://en.wikipedia.org/wiki/Battle.net
+clueweb12-0000tw-00-00074	Program	https://en.wikipedia.org/wiki/Program_(German_non-profit)
+clueweb12-0000tw-00-00074	Blizzard	https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)
+clueweb12-0000tw-00-00074	Blizzard	https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)
+clueweb12-0000tw-00-00074	Dota	https://en.wikipedia.org/wiki/Dota
+clueweb12-0000tw-00-00074	Blizzard	https://en.wikipedia.org/wiki/Blizzard_(Marvel_Comics)
+clueweb12-0000tw-00-00074	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00074	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00074	Darkness	https://en.wikipedia.org/wiki/Darkness_(short_story_collection)
+clueweb12-0000tw-00-00074	Time	https://en.wikipedia.org/wiki/Time_(ELO_album)
+clueweb12-0000tw-00-00074	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00074	Alan Wake	https://en.wikipedia.org/wiki/Alan_Wake
+clueweb12-0000tw-00-00074	Develop	https://en.wikipedia.org/wiki/Develop_(Apple_magazine)
+clueweb12-0000tw-00-00074	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00074	Xbox	https://en.wikipedia.org/wiki/Xbox_(console)
+clueweb12-0000tw-00-00075	Games	https://en.wikipedia.org/wiki/Games_(film)
+clueweb12-0000tw-00-00075	James Quinn	https://en.wikipedia.org/wiki/James_Quinn_(bishop)
+clueweb12-0000tw-00-00075	Amnesia	https://en.wikipedia.org/wiki/Amnesia_(Pousette-Dart_Band_album)
+clueweb12-0000tw-00-00075	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00075	Google Maps	https://en.wikipedia.org/wiki/Google_Maps
+clueweb12-0000tw-00-00075	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00075	Amnesia	https://en.wikipedia.org/wiki/Amnesia_(Pousette-Dart_Band_album)
+clueweb12-0000tw-00-00075	Minecraft	https://en.wikipedia.org/wiki/Minecraft_(disambiguation)
+clueweb12-0000tw-00-00075	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00075	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00075	Darkness	https://en.wikipedia.org/wiki/Darkness_(short_story_collection)
+clueweb12-0000tw-00-00075	Time	https://en.wikipedia.org/wiki/Time_(ELO_album)
+clueweb12-0000tw-00-00075	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00075	Alan Wake	https://en.wikipedia.org/wiki/Alan_Wake
+clueweb12-0000tw-00-00075	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00075	Xbox	https://en.wikipedia.org/wiki/Xbox_(console)
+clueweb12-0000tw-00-00076	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00076	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00076	Darkness	https://en.wikipedia.org/wiki/Darkness_(short_story_collection)
+clueweb12-0000tw-00-00076	Time	https://en.wikipedia.org/wiki/Time_(ELO_album)
+clueweb12-0000tw-00-00076	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00076	Alan Wake	https://en.wikipedia.org/wiki/Alan_Wake
+clueweb12-0000tw-00-00076	Develop	https://en.wikipedia.org/wiki/Develop_(Apple_magazine)
+clueweb12-0000tw-00-00076	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00076	Xbox	https://en.wikipedia.org/wiki/Xbox_(console)
+clueweb12-0000tw-00-00077	BioWare	https://en.wikipedia.org/wiki/BioWare
+clueweb12-0000tw-00-00077	BioWare	https://en.wikipedia.org/wiki/BioWare
+clueweb12-0000tw-00-00077	Xbox 360	https://en.wikipedia.org/wiki/Xbox_360
+clueweb12-0000tw-00-00077	Shepard	https://en.wikipedia.org/wiki/Shepard_(comics)
+clueweb12-0000tw-00-00077	ME3	https://en.wikipedia.org/wiki/ME3
+clueweb12-0000tw-00-00077	Renegade	https://en.wikipedia.org/wiki/Renegade_(Styx_song)
+clueweb12-0000tw-00-00077	Leaked	https://en.wikipedia.org/wiki/Leaked_(song)
+clueweb12-0000tw-00-00077	PSN	https://en.wikipedia.org/wiki/PSN_(disambiguation)
+clueweb12-0000tw-00-00077	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00077	Darkness	https://en.wikipedia.org/wiki/Darkness_(short_story_collection)
+clueweb12-0000tw-00-00077	Time	https://en.wikipedia.org/wiki/Time_(ELO_album)
+clueweb12-0000tw-00-00077	China	https://en.wikipedia.org/wiki/China,_Texas
+clueweb12-0000tw-00-00077	Alan Wake	https://en.wikipedia.org/wiki/Alan_Wake
+clueweb12-0000tw-00-00077	Develop	https://en.wikipedia.org/wiki/Develop_(Apple_magazine)
+clueweb12-0000tw-00-00077	Nintendo	https://en.wikipedia.org/wiki/Nintendo
+clueweb12-0000tw-00-00077	Xbox	https://en.wikipedia.org/wiki/Xbox_(console)
+clueweb12-0000tw-00-00079	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00079	Engagement	https://en.wikipedia.org/wiki/Engagement_(military)
+clueweb12-0000tw-00-00079	Engagement	https://en.wikipedia.org/wiki/Engagement_(military)
+clueweb12-0000tw-00-00079	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00079	Aileen Lee	https://en.wikipedia.org/wiki/Aileen_Lee
+clueweb12-0000tw-00-00079	GOP	https://en.wikipedia.org/wiki/GOP_(disambiguation)
+clueweb12-0000tw-00-00080	America	https://en.wikipedia.org/wiki/America_(band)
+clueweb12-0000tw-00-00080	UX	https://en.wikipedia.org/wiki/UX
+clueweb12-0000tw-00-00080	Hover	https://en.wikipedia.org/wiki/Hover
+clueweb12-0000tw-00-00080	Gray	https://en.wikipedia.org/wiki/Gray,_Georgia
+clueweb12-0000tw-00-00080	Author	https://en.wikipedia.org/wiki/Author_(bicycles)
+clueweb12-0000tw-00-00080	Stephanie	https://en.wikipedia.org/wiki/Stephanie_(LazyTown)
+clueweb12-0000tw-00-00080	Ismail	https://en.wikipedia.org/wiki/Ishmael_in_Islam
+clueweb12-0000tw-00-00080	Wasim	https://en.wikipedia.org/wiki/Wasim
+clueweb12-0000tw-00-00080	Adobe	https://en.wikipedia.org/wiki/Adobe_Inc.
+clueweb12-0000tw-00-00080	Gav	https://en.wikipedia.org/wiki/Gav,_Iran
+clueweb12-0000tw-00-00081	Ill	https://en.wikipedia.org/wiki/Ill_(France)
+clueweb12-0000tw-00-00081	Jane	https://en.wikipedia.org/wiki/Jane_(Barenaked_Ladies_song)
+clueweb12-0000tw-00-00081	Jane	https://en.wikipedia.org/wiki/Jane,_Missouri
+clueweb12-0000tw-00-00081	Jane	https://en.wikipedia.org/wiki/Jane,_Missouri
+clueweb12-0000tw-00-00081	Janes	https://en.wikipedia.org/wiki/Janes_(disambiguation)
+clueweb12-0000tw-00-00081	Jane	https://en.wikipedia.org/wiki/Jane,_Missouri
+clueweb12-0000tw-00-00081	Janes	https://en.wikipedia.org/wiki/Janes
+clueweb12-0000tw-00-00081	Jane	https://en.wikipedia.org/wiki/Jane_(Barenaked_Ladies_song)
+clueweb12-0000tw-00-00081	Janes	https://en.wikipedia.org/wiki/Janes_(disambiguation)
+clueweb12-0000tw-00-00081	Janes	https://en.wikipedia.org/wiki/Janes
+clueweb12-0000tw-00-00081	Universal	https://en.wikipedia.org/wiki/Universal_(act)
+clueweb12-0000tw-00-00081	Jane	https://en.wikipedia.org/wiki/Jane,_Missouri
+clueweb12-0000tw-00-00081	Jane	https://en.wikipedia.org/wiki/Jane_station
+clueweb12-0000tw-00-00081	Jane	https://en.wikipedia.org/wiki/Jane,_Missouri
+clueweb12-0000tw-00-00081	Jane	https://en.wikipedia.org/wiki/Jane,_Missouri
+clueweb12-0000tw-00-00081	Mich	https://en.wikipedia.org/wiki/Mich
+clueweb12-0000tw-00-00081	Mich	https://en.wikipedia.org/wiki/Mich
+clueweb12-0000tw-00-00082	Forbes	https://en.wikipedia.org/wiki/Electoral_district_of_Forbes
+clueweb12-0000tw-00-00082	Financial Times	https://en.wikipedia.org/wiki/Financial_Times
+clueweb12-0000tw-00-00082	Stansberry Research	https://en.wikipedia.org/wiki/Stansberry_Research
+clueweb12-0000tw-00-00082	U.S.	https://en.wikipedia.org/wiki/Us
+clueweb12-0000tw-00-00082	Forbes	https://en.wikipedia.org/wiki/Forbes,_Aberdeenshire
+clueweb12-0000tw-00-00082	Illinois	https://en.wikipedia.org/wiki/Illinois_(song)
+clueweb12-0000tw-00-00082	Angelina Jolie	https://en.wikipedia.org/wiki/Angelina_Jolie
+clueweb12-0000tw-00-00082	Brad Pitt	https://en.wikipedia.org/wiki/Brad_Pitt
+clueweb12-0000tw-00-00082	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00082	Mark	https://en.wikipedia.org/wiki/Mark_(designation)
+clueweb12-0000tw-00-00082	Sania	https://en.wikipedia.org/wiki/Sania
+clueweb12-0000tw-00-00083	Blogger	https://en.wikipedia.org/wiki/Blogger_(service)
+clueweb12-0000tw-00-00083	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00083	Blogger	https://en.wikipedia.org/wiki/Blogger_(service)
+clueweb12-0000tw-00-00083	RSS	https://en.wikipedia.org/wiki/RSS
+clueweb12-0000tw-00-00083	Joseph	https://en.wikipedia.org/wiki/Joseph_(comics)
+clueweb12-0000tw-00-00083	Orange County	https://en.wikipedia.org/wiki/Orange_County,_New_York
+clueweb12-0000tw-00-00083	CA	https://en.wikipedia.org/wiki/CA_(journal)
+clueweb12-0000tw-00-00083	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00083	Picasa	https://en.wikipedia.org/wiki/Picasa
+clueweb12-0000tw-00-00083	Russ	https://en.wikipedia.org/wiki/Russ,_Missouri
+clueweb12-0000tw-00-00083	Harsh	https://en.wikipedia.org/wiki/Harsh
+clueweb12-0000tw-00-00083	Ekrem	https://en.wikipedia.org/wiki/Ekrem
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	amazon	https://en.wikipedia.org/wiki/Amazon_(chess)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Angela Jones	https://en.wikipedia.org/wiki/Angela_Jones
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Christopher Lee	https://en.wikipedia.org/wiki/Christopher_Lee
+clueweb12-0000tw-00-00084	Wishlist	https://en.wikipedia.org/wiki/Wishlist_(song)
+clueweb12-0000tw-00-00084	Unique	https://en.wikipedia.org/wiki/Unique_(Glee)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Ill	https://en.wikipedia.org/wiki/Ill_(France)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	CTA	https://en.wikipedia.org/wiki/CTA
+clueweb12-0000tw-00-00084	Search Engine	https://en.wikipedia.org/wiki/Search_Engine_(radio_show)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazons	https://en.wikipedia.org/wiki/Amazons_(DC_Comics)
+clueweb12-0000tw-00-00084	Kindle Fire	https://en.wikipedia.org/wiki/Amazon_Fire
+clueweb12-0000tw-00-00084	Amazon	https://en.wikipedia.org/wiki/Amazon_(2008_TV_series)
+clueweb12-0000tw-00-00084	Amazons	https://en.wikipedia.org/wiki/Amazons_(DC_Comics)
+clueweb12-0000tw-00-00085	GOP	https://en.wikipedia.org/wiki/GOP_(disambiguation)
+clueweb12-0000tw-00-00085	GOP	https://en.wikipedia.org/wiki/GOP_(disambiguation)
+clueweb12-0000tw-00-00085	Barack Obama	https://en.wikipedia.org/wiki/Barack_Obama
+clueweb12-0000tw-00-00085	GOP	https://en.wikipedia.org/wiki/GOP_(disambiguation)
+clueweb12-0000tw-00-00085	Republican	https://en.wikipedia.org/wiki/Republican,_North_Carolina
+clueweb12-0000tw-00-00085	Romney	https://en.wikipedia.org/wiki/Romney,_Pennsylvania
+clueweb12-0000tw-00-00085	Romney	https://en.wikipedia.org/wiki/Romney,_Texas
+clueweb12-0000tw-00-00085	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00085	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00085	Facebook	https://en.wikipedia.org/wiki/Facebook
+clueweb12-0000tw-00-00085	Navigation	https://en.wikipedia.org/wiki/Navigation_(journal)
+clueweb12-0000tw-00-00085	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00085	Gingrich	https://en.wikipedia.org/wiki/Gingrich
+clueweb12-0000tw-00-00085	Iowa	https://en.wikipedia.org/wiki/Iowa_(album)
+clueweb12-0000tw-00-00085	Gingrich	https://en.wikipedia.org/wiki/Gingrich
+clueweb12-0000tw-00-00085	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire,_Ohio
+clueweb12-0000tw-00-00085	WordPress	https://en.wikipedia.org/wiki/WordPress
+clueweb12-0000tw-00-00085	Paul	https://en.wikipedia.org/wiki/Paul,_Nebraska
+clueweb12-0000tw-00-00085	Ron Paul	https://en.wikipedia.org/wiki/Ron_Paul
+clueweb12-0000tw-00-00085	Paul	https://en.wikipedia.org/wiki/Paul,_Nebraska
+clueweb12-0000tw-00-00085	Herman Cain	https://en.wikipedia.org/wiki/Herman_Cain
+clueweb12-0000tw-00-00085	GOP	https://en.wikipedia.org/wiki/GOP_(disambiguation)
+clueweb12-0000tw-00-00085	Rick Perry	https://en.wikipedia.org/wiki/Rick_Perry
+clueweb12-0000tw-00-00085	GOP	https://en.wikipedia.org/wiki/GOP_(disambiguation)
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	HootSuite	https://en.wikipedia.org/wiki/Hootsuite
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Search	https://en.wikipedia.org/wiki/Search_(South_Korean_TV_series)
+clueweb12-0000tw-00-00086	Search	https://en.wikipedia.org/wiki/Search_(South_Korean_TV_series)
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Google Docs	https://en.wikipedia.org/wiki/Google_Docs
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00086	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00086	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00086	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00086	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00086	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00086	Google Analytics	https://en.wikipedia.org/wiki/Google_Analytics
+clueweb12-0000tw-00-00088	IAD	https://en.wikipedia.org/wiki/IAD
+clueweb12-0000tw-00-00088	UA	https://en.wikipedia.org/wiki/UA
+clueweb12-0000tw-00-00088	Continental	https://en.wikipedia.org/wiki/Continental,_Arizona
+clueweb12-0000tw-00-00088	UA	https://en.wikipedia.org/wiki/UA
+clueweb12-0000tw-00-00088	IAD	https://en.wikipedia.org/wiki/IAD
+clueweb12-0000tw-00-00088	Continental	https://en.wikipedia.org/wiki/Continental,_Arizona
+clueweb12-0000tw-00-00088	IAD	https://en.wikipedia.org/wiki/IAD
+clueweb12-0000tw-00-00088	IAD	https://en.wikipedia.org/wiki/IAD
+clueweb12-0000tw-00-00088	IAD	https://en.wikipedia.org/wiki/IAD
+clueweb12-0000tw-00-00088	RPU	https://en.wikipedia.org/wiki/RPU
+clueweb12-0000tw-00-00088	DUB	https://en.wikipedia.org/wiki/Dub_(magazine)
+clueweb12-0000tw-00-00088	LHR	https://en.wikipedia.org/wiki/LHR_(disambiguation)
+clueweb12-0000tw-00-00088	AMS	https://en.wikipedia.org/wiki/AMS_(Advanced_Music_Systems)
+clueweb12-0000tw-00-00088	FRA	https://en.wikipedia.org/wiki/FRA
+clueweb12-0000tw-00-00088	Continental	https://en.wikipedia.org/wiki/Continental,_Arizona
+clueweb12-0000tw-00-00089	IAD	https://en.wikipedia.org/wiki/IAD
+clueweb12-0000tw-00-00089	UA	https://en.wikipedia.org/wiki/UA
+clueweb12-0000tw-00-00089	Continental	https://en.wikipedia.org/wiki/Continental,_Arizona
+clueweb12-0000tw-00-00089	UA	https://en.wikipedia.org/wiki/UA
+clueweb12-0000tw-00-00089	IAD	https://en.wikipedia.org/wiki/IAD
+clueweb12-0000tw-00-00089	Continental	https://en.wikipedia.org/wiki/Continental,_Arizona
+clueweb12-0000tw-00-00089	IAD	https://en.wikipedia.org/wiki/IAD
+clueweb12-0000tw-00-00089	IAD	https://en.wikipedia.org/wiki/IAD
+clueweb12-0000tw-00-00089	IAD	https://en.wikipedia.org/wiki/IAD
+clueweb12-0000tw-00-00089	RPU	https://en.wikipedia.org/wiki/RPU
+clueweb12-0000tw-00-00089	DUB	https://en.wikipedia.org/wiki/Dub_(magazine)
+clueweb12-0000tw-00-00089	LHR	https://en.wikipedia.org/wiki/LHR_(disambiguation)
+clueweb12-0000tw-00-00089	AMS	https://en.wikipedia.org/wiki/AMS_(Advanced_Music_Systems)
+clueweb12-0000tw-00-00089	FRA	https://en.wikipedia.org/wiki/FRA
+clueweb12-0000tw-00-00089	Continental	https://en.wikipedia.org/wiki/Continental,_Arizona
+clueweb12-0000tw-00-00090	Facebook	https://en.wikipedia.org/wiki/Facebook
+clueweb12-0000tw-00-00090	Ghost Adventures	https://en.wikipedia.org/wiki/Ghost_Adventures
+clueweb12-0000tw-00-00090	Hunter Burgan	https://en.wikipedia.org/wiki/Hunter_Burgan
+clueweb12-0000tw-00-00090	Bowyer	https://en.wikipedia.org/wiki/Bowyer_(disambiguation)
+clueweb12-0000tw-00-00090	Search	https://en.wikipedia.org/wiki/Search_(South_Korean_TV_series)
+clueweb12-0000tw-00-00092	Loading	https://en.wikipedia.org/wiki/Loading_(TV_channel)
+clueweb12-0000tw-00-00092	Morgan Freeman	https://en.wikipedia.org/wiki/Morgan_Freeman
+clueweb12-0000tw-00-00094	American	https://en.wikipedia.org/wiki/American_(word)
+clueweb12-0000tw-00-00094	Dallas	https://en.wikipedia.org/wiki/Dallas,_Moray
+clueweb12-0000tw-00-00094	Google Analytics	https://en.wikipedia.org/wiki/Google_Analytics
+clueweb12-0000tw-00-00094	Button	https://en.wikipedia.org/wiki/Button_(film)
+clueweb12-0000tw-00-00094	Stephen	https://en.wikipedia.org/wiki/Stephen_(musician)
+clueweb12-0000tw-00-00094	Kindle Fire	https://en.wikipedia.org/wiki/Amazon_Fire
+clueweb12-0000tw-00-00094	American	https://en.wikipedia.org/wiki/American_(word)
+clueweb12-0000tw-00-00094	American	https://en.wikipedia.org/wiki/American_(1917_automobile)
+clueweb12-0000tw-00-00094	Veterans	https://en.wikipedia.org/wiki/Veterans_(Justified)
+clueweb12-0000tw-00-00094	Tim	https://en.wikipedia.org/wiki/Tim_(musician)
+clueweb12-0000tw-00-00094	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00094	Workforce	https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)
+clueweb12-0000tw-00-00094	Honest Tea	https://en.wikipedia.org/wiki/Honest_Tea
+clueweb12-0000tw-00-00094	Alfred Spector	https://en.wikipedia.org/wiki/Alfred_Spector
+clueweb12-0000tw-00-00094	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00094	Mary Jordan	https://en.wikipedia.org/wiki/Mary_Jordan_(journalist)
+clueweb12-0000tw-00-00094	Pros	https://en.wikipedia.org/wiki/Pros
+clueweb12-0000tw-00-00094	Bethesda	https://en.wikipedia.org/wiki/Bethesda,_Whitchurch-Stouffville
+clueweb12-0000tw-00-00094	Washington	https://en.wikipedia.org/wiki/Washington,_West_Sussex
+clueweb12-0000tw-00-00094	Maryland	https://en.wikipedia.org/wiki/Maryland_(cigarette)
+clueweb12-0000tw-00-00094	D.C.	https://en.wikipedia.org/wiki/D.C._(TV_series)
+clueweb12-0000tw-00-00094	Philadelphia	https://en.wikipedia.org/wiki/Philadelphia_(Faiyum)
+clueweb12-0000tw-00-00094	South Jersey	https://en.wikipedia.org/wiki/South_Jersey
+clueweb12-0000tw-00-00094	Philadelphia	https://en.wikipedia.org/wiki/Philadelphia_(Faiyum)
+clueweb12-0000tw-00-00094	Rittenhouse Square	https://en.wikipedia.org/wiki/Rittenhouse_Square
+clueweb12-0000tw-00-00094	Pros	https://en.wikipedia.org/wiki/Pros
+clueweb12-0000tw-00-00094	Philadelphia	https://en.wikipedia.org/wiki/Philadelphia_(Faiyum)
+clueweb12-0000tw-00-00094	Richmond	https://en.wikipedia.org/wiki/Richmond,_Rhode_Island
+clueweb12-0000tw-00-00094	San Diego	https://en.wikipedia.org/wiki/San_Diego,_Cesar
+clueweb12-0000tw-00-00094	Public Relations	https://en.wikipedia.org/wiki/Public_Relations_(Arrested_Development)
+clueweb12-0000tw-00-00094	Chrissy	https://en.wikipedia.org/wiki/Chrissy
+clueweb12-0000tw-00-00094	Michelle	https://en.wikipedia.org/wiki/Michelle_(song)
+clueweb12-0000tw-00-00094	Philadelphia	https://en.wikipedia.org/wiki/Philadelphia_(Faiyum)
+clueweb12-0000tw-00-00094	Kelly	https://en.wikipedia.org/wiki/Kelly,_Alabama
+clueweb12-0000tw-00-00094	New York	https://en.wikipedia.org/wiki/New_York_(state)
+clueweb12-0000tw-00-00094	Philadelphia	https://en.wikipedia.org/wiki/Philadelphia_(Faiyum)
+clueweb12-0000tw-00-00094	New York	https://en.wikipedia.org/wiki/New_York_(Angel_Haze_song)
+clueweb12-0000tw-00-00094	San Francisco	https://en.wikipedia.org/wiki/San_Francisco_(Tor_Endresen_song)
+clueweb12-0000tw-00-00094	Canada	https://en.wikipedia.org/wiki/Canada,_Kansas
+clueweb12-0000tw-00-00094	Twitter	https://en.wikipedia.org/wiki/Twitter
+clueweb12-0000tw-00-00094	Facebook	https://en.wikipedia.org/wiki/Facebook
+clueweb12-0000tw-00-00094	Search Engine Optimization	https://en.wikipedia.org/wiki/Search_engine_optimization
+clueweb12-0000tw-00-00094	DJ	https://en.wikipedia.org/wiki/DJ_(comics)
+clueweb12-0000tw-00-00094	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00094	Search Engine Optimization	https://en.wikipedia.org/wiki/Search_engine_optimization
+clueweb12-0000tw-00-00094	Lodi	https://en.wikipedia.org/wiki/Lodi,_Montgomery_County,_Mississippi
+clueweb12-0000tw-00-00094	Pros	https://en.wikipedia.org/wiki/Pros
+clueweb12-0000tw-00-00094	Kathryn Hamm	https://en.wikipedia.org/wiki/Kathryn_Hamm
+clueweb12-0000tw-00-00094	Ricky Martin	https://en.wikipedia.org/wiki/Ricky_Martin
+clueweb12-0000tw-00-00094	Connecticut	https://en.wikipedia.org/wiki/Connecticut
+clueweb12-0000tw-00-00094	Vermont	https://en.wikipedia.org/wiki/Vermont,_Wisconsin
+clueweb12-0000tw-00-00094	Massachusetts	https://en.wikipedia.org/wiki/Massachusetts
+clueweb12-0000tw-00-00094	Iowa	https://en.wikipedia.org/wiki/Iowa_(album)
+clueweb12-0000tw-00-00094	Washington	https://en.wikipedia.org/wiki/Washington,_West_Sussex
+clueweb12-0000tw-00-00094	New York	https://en.wikipedia.org/wiki/New_York_(Angel_Haze_song)
+clueweb12-0000tw-00-00094	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire,_Ohio
+clueweb12-0000tw-00-00094	Maryland	https://en.wikipedia.org/wiki/Maryland_(automobile)
+clueweb12-0000tw-00-00094	Columbia	https://en.wikipedia.org/wiki/Columbia_(supercontinent)
+clueweb12-0000tw-00-00094	Delaware	https://en.wikipedia.org/wiki/Delaware,_Ohio
+clueweb12-0000tw-00-00094	Rhode Island	https://en.wikipedia.org/wiki/Rhode_Island
+clueweb12-0000tw-00-00094	Illinois	https://en.wikipedia.org/wiki/Illinois_(song)
+clueweb12-0000tw-00-00094	Hawaii	https://en.wikipedia.org/wiki/Hawaii_(island)
+clueweb12-0000tw-00-00094	New Jersey	https://en.wikipedia.org/wiki/New_Jersey
+clueweb12-0000tw-00-00095	Facebook	https://en.wikipedia.org/wiki/Facebook
+clueweb12-0000tw-00-00095	American	https://en.wikipedia.org/wiki/American_(word)
+clueweb12-0000tw-00-00095	Dallas	https://en.wikipedia.org/wiki/Dallas,_Moray
+clueweb12-0000tw-00-00095	Google Analytics	https://en.wikipedia.org/wiki/Google_Analytics
+clueweb12-0000tw-00-00095	Button	https://en.wikipedia.org/wiki/Button_(film)
+clueweb12-0000tw-00-00095	Digg	https://en.wikipedia.org/wiki/Digg
+clueweb12-0000tw-00-00096	Facebook	https://en.wikipedia.org/wiki/Facebook
+clueweb12-0000tw-00-00096	American	https://en.wikipedia.org/wiki/American_(word)
+clueweb12-0000tw-00-00096	Dallas	https://en.wikipedia.org/wiki/Dallas,_Moray
+clueweb12-0000tw-00-00096	Google Analytics	https://en.wikipedia.org/wiki/Google_Analytics
+clueweb12-0000tw-00-00096	Button	https://en.wikipedia.org/wiki/Button_(film)
+clueweb12-0000tw-00-00096	Digg	https://en.wikipedia.org/wiki/Digg
+clueweb12-0000tw-00-00096	Digg	https://en.wikipedia.org/wiki/Digg
+clueweb12-0000tw-00-00096	Digg	https://en.wikipedia.org/wiki/Digg
+clueweb12-0000tw-00-00096	Digg	https://en.wikipedia.org/wiki/Digg
+clueweb12-0000tw-00-00096	Digg	https://en.wikipedia.org/wiki/Digg
+clueweb12-0000tw-00-00096	Digg	https://en.wikipedia.org/wiki/Digg
+clueweb12-0000tw-00-00096	Search Engine Optimization	https://en.wikipedia.org/wiki/Search_engine_optimization
+clueweb12-0000tw-00-00097	American	https://en.wikipedia.org/wiki/American_(word)
+clueweb12-0000tw-00-00097	Dallas	https://en.wikipedia.org/wiki/Dallas,_Moray
+clueweb12-0000tw-00-00097	Google Analytics	https://en.wikipedia.org/wiki/Google_Analytics
+clueweb12-0000tw-00-00097	Button	https://en.wikipedia.org/wiki/Button_(film)
+clueweb12-0000tw-00-00097	American	https://en.wikipedia.org/wiki/American_(word)
+clueweb12-0000tw-00-00097	American	https://en.wikipedia.org/wiki/American_(1917_automobile)
+clueweb12-0000tw-00-00097	Tim	https://en.wikipedia.org/wiki/Tim_(musician)
+clueweb12-0000tw-00-00097	Veterans	https://en.wikipedia.org/wiki/Veterans_(Justified)
+clueweb12-0000tw-00-00097	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00097	Workforce	https://en.wikipedia.org/wiki/Workforce_(Star_Trek:_Voyager)
+clueweb12-0000tw-00-00097	Honest Tea	https://en.wikipedia.org/wiki/Honest_Tea
+clueweb12-0000tw-00-00097	Alfred Spector	https://en.wikipedia.org/wiki/Alfred_Spector
+clueweb12-0000tw-00-00097	Google	https://en.wikipedia.org/wiki/Google
+clueweb12-0000tw-00-00097	Mary Jordan	https://en.wikipedia.org/wiki/Mary_Jordan_(journalist)
+clueweb12-0000tw-00-00098	Facebook	https://en.wikipedia.org/wiki/Facebook
+clueweb12-0000tw-00-00098	American	https://en.wikipedia.org/wiki/American_(word)
+clueweb12-0000tw-00-00098	Dallas	https://en.wikipedia.org/wiki/Dallas,_Moray
+clueweb12-0000tw-00-00098	Google Analytics	https://en.wikipedia.org/wiki/Google_Analytics
+clueweb12-0000tw-00-00098	Button	https://en.wikipedia.org/wiki/Button_(film)
+clueweb12-0000tw-00-00098	Stephen	https://en.wikipedia.org/wiki/Stephen_(musician)
+clueweb12-0000tw-00-00098	Kindle Fire	https://en.wikipedia.org/wiki/Amazon_Fire
+clueweb12-0000tw-00-00099	American	https://en.wikipedia.org/wiki/American_(word)
+clueweb12-0000tw-00-00099	Dallas	https://en.wikipedia.org/wiki/Dallas,_Moray
+clueweb12-0000tw-00-00099	Google Analytics	https://en.wikipedia.org/wiki/Google_Analytics
+clueweb12-0000tw-00-00099	Button	https://en.wikipedia.org/wiki/Button_(film)
+clueweb12-0000tw-00-00099	Pros	https://en.wikipedia.org/wiki/Pros
