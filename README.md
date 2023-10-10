@@ -7,4 +7,5 @@ This project aims to implement a pipeline that recognizes named entities from we
 3. Entity Linking
 4. Relation Extraction
 
-## 
+##Parsing HTML to plain text
+The input WARC files are stored in `/data`. `html2text.py` implements this function.
