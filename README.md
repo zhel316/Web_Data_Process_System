@@ -17,4 +17,4 @@ Named entities are distinct terms presented in the text, such as a person’s na
 Entity linking, also known as entity disambiguation, is the process of identifying and associating entities mentioned in a text with a corresponding entity in a knowledge base or website that provides more detailed information about the entity. We've adopted the WSD method for entity disambiguation, which can be found in `WSD.py`.
 
 ## Relation Extraction
-A Convolutional Neural Network (CNN) model is employed to extract relationships between entities.
+A Convolutional Neural Network (CNN) model is employed to extract relationships between entities. Apart from the CNN model, we also tried R-Bert model. R-BERT model [3] is a derivative of Bert’s model for relationship extraction, with a simple but powerful structure.
